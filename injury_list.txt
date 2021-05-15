@@ -1,0 +1,1875 @@
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-brayton">Justin Brayton</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/kyle-p-chisholm">Kyle Chisholm</a> – SHOULDER | TBD</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/martin-davalos">Martin Davalos</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/vince-freise">Vince Friese</a> – RIBS | OUT</h4>
+<h4><a class="show_card" href="/rider/shane-mcelrath">Shane McElrath</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/zach-osborne">Zach Osborne</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-politelli">Austin Politelli</a> – HEAD, SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/carter-stephenson">Carter Stephenson</a> – HAND, UPPER BODY | OUT</h4>
+<h4><a class="show_card" href="/rider/tj-albright">TJ Albright</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – WRISTS, HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/grant-harlan">Grant Harlan</a> – HEAD, ELBOW, WRIST, CHEST, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/kevin-moranz">Kevin Moranz</a> – RIBS, LUNG, SCAPULA | OUT</h4>
+<h4><a class="show_card" href="/rider/mitchell-oldenburg">Mitchell Oldenburg</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/chad-saultz">Chad Saultz</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/max-vohland">Max Vohland</a> – HIP | OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-woodcock">Dylan Woodcock</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/dakota-alix">Dakota Alix</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/bryton-carroll"></a><a class="show_card" href="/rider/bryton-carroll">Bryton Carrol</a>l – RIBS, STERNUM, FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/martin-castelo">Martin Castelo</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/christian-craig">Christian Craig</a> – LEG, ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/mitchell-falk">Mitchell Falk</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/bryson-gardner">Bryson Gardner</a> – BACK, PELVIS | OUT</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – LEG, ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/chase-marquier">Chase Marquier</a> – ARM, HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/alex-martin">Alex Martin</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/jeremy-martin">Jeremy Martin</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/ty-masterpool"></a><a class="show_card" href="/rider/ty-masterpool">Ty Masterpool</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/carson-mumford">Carson Mumford</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/hardy-munoz">Hardy Munoz</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/stilez-robertson">Stilez Robertson</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/benny-bloss">Benny Bloss</a> – ANKLE | IN</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – SHOULDER | TBD</h4>
+<h4><a class="show_card" href="/rider/justin-brayton">Justin Brayton</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/kyle-p-chisholm">Kyle Chisholm</a> – SHOULDER | <span class="strikethrough">TBD</span> out </h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/martin-davalos">Martin Davalos</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/vince-freise">Vince Friese</a> – RIBS | OUT</h4>
+<h4><a class="show_card" href="/rider/shane-mcelrath">Shane McElrath</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/zach-osborne">Zach Osborne</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-politelli">Austin Politelli</a> – HEAD, SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/carter-stephenson">Carter Stephenson</a> – HAND, UPPER BODY | OUT</h4>
+<h4><a class="show_card" href="/rider/tj-albright">TJ Albright</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – WRISTS, HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/grant-harlan">Grant Harlan</a> – HEAD, ELBOW, WRIST, CHEST, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/kevin-moranz">Kevin Moranz</a> – RIBS, LUNG, SCAPULA | OUT</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – HAND | IN</h4>
+<h4><a class="show_card" href="/rider/mitchell-oldenburg">Mitchell Oldenburg</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/jess-pettis">Jess Pettis</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/chad-saultz">Chad Saultz</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/max-vohland">Max Vohland</a> – HIP | OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-woodcock">Dylan Woodcock</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/dakota-alix">Dakota Alix</a> – BACK</h4>
+<h4><a class="show_card" href="/rider/bryton-carroll"></a><a class="show_card" href="/rider/bryton-carroll">Bryton Carrol</a>l – RIBS, STERNUM, FOOT</h4>
+<h4><a class="show_card" href="/rider/martin-castelo">Martin Castelo</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – HEAD</h4>
+<h4><a class="show_card" href="/rider/mitchell-falk">Mitchell Falk</a> – LEG</h4>
+<h4><a class="show_card" href="/rider/bryson-gardner">Bryson Gardner</a> – BACK, PELVIS</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – LEG, ANKLE</h4>
+<h4><a class="show_card" href="/rider/chase-marquier">Chase Marquier</a> – ARM, HEAD</h4>
+<h4><a class="show_card" href="/rider/alex-martin">Alex Martin</a> – WRIST</h4>
+<h4><a class="show_card" href="/rider/jeremy-martin">Jeremy Martin</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/ty-masterpool"></a><a class="show_card" href="/rider/ty-masterpool">Ty Masterpool</a> – ANKLE</h4>
+<h4><a class="show_card" href="/rider/carson-mumford">Carson Mumford</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/hardy-munoz">Hardy Munoz</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/stilez-robertson">Stilez Robertson</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/benny-bloss">Benny Bloss</a> – ANKLE | IN</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – SHOULDER | TBD</h4>
+<h4><a class="show_card" href="/rider/justin-brayton">Justin Brayton</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/kyle-p-chisholm">Kyle Chisholm</a> – SHOULDER | <span class="strikethrough">TBD</span> Out</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/vince-freise">Vince Friese</a> – RIBS | OUT</h4>
+<h4><a class="show_card" href="/rider/grant-harlan">Grant Harlan</a> – HEAD, ELBOW, WRIST, CHEST, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/brandon-hartranft">Brandon Hartranft</a> – UNKNOWN | IN</h4>
+<h4><a class="show_card" href="/rider/shane-mcelrath">Shane McElrath</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/kevin-moranz">Kevin Moranz</a> – RIBS, LUNG, SCAPULA | OUT</h4>
+<h4><a class="show_card" href="/rider/fredrik-noren">Fredrik Noren</a> – ANKLE | IN</h4>
+<h4><a class="show_card" href="/rider/mitchell-oldenburg">Mitchell Oldenburg</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/zach-osborne">Zach Osborne</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-politelli">Austin Politelli</a> – HEAD, SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/chad-saultz">Chad Saultz</a> – Collarbone | out</h4>
+<h4><a class="show_card" href="/rider/carter-stephenson">Carter Stephenson</a> – HAND, UPPER BODY | OUT</h4>
+<h4><a class="show_card" href="/rider/malcolm-stewart">Malcolm Stewart</a> – SORE | IN</h4>
+<h4><a class="show_card" href="/rider/dakota-alix">Dakota Alix</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/bryton-carroll"></a><a class="show_card" href="/rider/bryton-carroll">Bryton Carrol</a>l – RIBS, STERNUM, FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/martin-castelo">Martin Castelo</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/mitchell-falk">Mitchell Falk</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/bryson-gardner">Bryson Gardner</a> – BACK, PELVIS | OUT</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – LEG, ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/chase-marquier">Chase Marquier</a> – ARM, HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/alex-martin">Alex Martin</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/jeremy-martin">Jeremy Martin</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/ty-masterpool"></a><a class="show_card" href="/rider/ty-masterpool">Ty Masterpool</a> – ankle | OUT</h4>
+<h4><a class="show_card" href="/rider/carson-mumford">Carson Mumford</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/hardy-munoz">Hardy Munoz</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/tj-albright">TJ Albright</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – WRISTS, HAND</h4>
+<h4><a class="show_card" href="/rider/max-miller">Max Miller</a> – BACK</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/jess-pettis">Jess Pettis</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/max-vohland">Max Vohland</a> – HIP</h4>
+<h4><a class="show_card" href="/rider/dylan-woodcock">Dylan Woodcock</a> – BACK</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – BANGED UP | IN</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – SHOULDER | TBD</h4>
+<h4><a class="show_card" href="/rider/justin-brayton">Justin Brayton</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/vince-freise">Vince Friese</a> – RIBS | OUT</h4>
+<h4><a class="show_card" href="/rider/grant-harlan">Grant Harlan</a> – HEAD, ELBOW, WRIST, CHEST, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/brandon-hartranft">Brandon Hartranft</a> – unknown | out</h4>
+<h4><a class="show_card" href="/rider/shane-mcelrath">Shane McElrath</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/zach-osborne">Zach Osborne</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-politelli">Austin Politelli</a> – HEAD, SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/carter-stephenson">Carter Stephenson</a> | OUT</h4>
+<h4><a class="show_card" href="/rider/dakota-alix">Dakota Alix</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/bryton-carroll"></a><a class="show_card" href="/rider/bryton-carroll">Bryton Carrol</a>l – RIBS, STERNUM, FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/martin-castelo">Martin Castelo</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/mitchell-falk">Mitchell Falk</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/bryson-gardner">Bryson Gardner</a> – BACK, PELVIS | OUT</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – LEG, ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/chase-marquier">Chase Marquier</a> – ARM, HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/alex-martin">Alex Martin</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/jeremy-martin">Jeremy Martin</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/hardy-munoz">Hardy Munoz</a> – Knee | out</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/tj-albright">TJ Albright</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – WRISTS, HAND</h4>
+<h4><a class="show_card" href="/rider/max-miller">Max Miller</a> – BACK</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/jess-pettis">Jess Pettis</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/max-vohland">Max Vohland</a> – HIP</h4>
+<h4><a class="show_card" href="/rider/dylan-woodcock">Dylan Woodcock</a> – BACK</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/benny-bloss">Benny Bloss</a> – FOOT | IN</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – SHOULDER | IN</h4>
+<h4><a class="show_card" href="/rider/justin-brayton">Justin Brayton</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/adam-enticknap">Adam Enticknap</a> – COLLARBONE | IN</h4>
+<h4><a class="show_card" href="/rider/grant-harlan">Grant Harlan</a> – HEAD, ELBOW, WRIST, CHEST, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/shane-mcelrath">Shane McElrath</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – HEAD, ARM | TBD</h4>
+<h4><a class="show_card" href="/rider/zach-osborne">Zach Osborne</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-politelli">Austin Politelli</a> – HEAD, SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/carter-stephenson">Carter Stephenson</a> | OUT</h4>
+<h4><a class="show_card" href="/rider/dakota-alix">Dakota Alix</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – HAND | IN</h4>
+<h4><a class="show_card" href="/rider/sean-cantrell">Sean Cantrell</a> – COLLARBONE | IN</h4>
+<h4><a class="show_card" href="/rider/bryton-carroll"></a><a class="show_card" href="/rider/bryton-carroll">Bryton Carrol</a>l – RIBS, STERNUM, FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/martin-castelo">Martin Castelo</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/derek-drake">Derek Drake</a> – FEMUR | OUT</h4>
+<h4><a class="show_card" href="/rider/mitchell-falk">Mitchell Falk</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/bryson-gardner">Bryson Gardner</a> – BACK, PELVIS | OUT</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – LEG, ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/alex-martin">Alex Martin</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/jeremy-martin">Jeremy Martin</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/stilez-robertson">Stilez Robertson</a> – FOOT | IN</h4>
+<h4><a class="show_card" href="/rider/dilan-schwartz">Dilan Schwartz</a> – BANGED UP | IN</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/tj-albright">TJ Albright</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – WRISTS, HAND</h4>
+<h4><a class="show_card" href="/rider/max-miller">Max Miller</a> – BACK</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/jess-pettis">Jess Pettis</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/john-short">John Short</a>– BANGED UP</h4>
+<h4><a class="show_card" href="/rider/max-vohland">Max Vohland</a> – HIP</h4>
+<h4><a class="show_card" href="/rider/dylan-woodcock">Dylan Woodcock</a> – BACK</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/benny-bloss">Benny Bloss</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-brayton">Justin Brayton</a> – Hand | out</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/adam-enticknap">Adam Enticknap</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/grant-harlan">Grant Harlan</a> – HEAD, ELBOW, WRIST, CHEST, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/shane-mcelrath">Shane McElrath</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – SHOULDER, BANGED UP | IN</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – HEAD, ARM | TBD</h4>
+<h4><a class="show_card" href="/rider/zach-osborne">Zach Osborne</a> - BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-politelli">Austin Politelli</a> – HEAD, SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/carter-stephenson">Carter Stephenson</a> | OUT</h4>
+<h4><a class="show_card" href="/rider/dakota-alix">Dakota Alix</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/sean-cantrell">Sean Cantrell</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/bryton-carroll"></a><a class="show_card" href="/rider/bryton-carroll">Bryton Carrol</a>l – RIBS, STERNUM, FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/martin-castelo">Martin Castelo</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/derek-drake">Derek Drake</a> – FEMUR | OUT</h4>
+<h4><a class="show_card" href="/rider/mitchell-falk">Mitchell Falk</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/bryson-gardner">Bryson Gardner</a> – BACK, PELVIS | OUT</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – LEG, ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/alex-martin">Alex Martin</a> – WRIST | <span class="strikethrough">TBD</span> Out</h4>
+<h4><a class="show_card" href="/rider/jeremy-martin">Jeremy Martin</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/stilez-robertson">Stilez Robertson</a> – FOOT | <span class="strikethrough">TBD</span></h4>
+<h4><a class="show_card" href="/rider/dilan-schwartz">Dilan Schwartz</a> – BANGED UP | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/tj-albright">TJ Albright</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – WRISTS, HAND</h4>
+<h4><a class="show_card" href="/rider/max-miller">Max Miller</a> – BACK</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/jess-pettis">Jess Pettis</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/john-short">John Short</a>– BANGED UP</h4>
+<h4><a class="show_card" href="/rider/max-vohland">Max Vohland</a> – HIP</h4>
+<h4><a class="show_card" href="/rider/dylan-woodcock">Dylan Woodcock</a> – BACK</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-ferrandis">Dylan Ferrandis</a> – LEG | IN</h4>
+<h4><a class="show_card" href="/rider/adam-enticknap">Adam Enticknap</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/grant-harlan">Grant Harlan</a> – HEAD, ELBOW, WRIST, CHEST, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – HEAD, ARM | OUT</h4>
+<h4><a class="show_card" href="/rider/zach-osborne">Zach Osborne</a> - BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-politelli">Austin Politelli</a> – HEAD, SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/carter-stephenson">Carter Stephenson</a> | OUT</h4>
+<h4><a class="show_card" href="/rider/dakota-alix">Dakota Alix</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/sean-cantrell">Sean Cantrell</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/bryton-carroll"></a><a class="show_card" href="/rider/bryton-carroll">Bryton Carrol</a>l – RIBS, STERNUM, FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/martin-castelo">Martin Castelo</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/derek-drake">Derek Drake</a> – FEMUR | OUT</h4>
+<h4><a class="show_card" href="/rider/mitchell-falk">Mitchell Falk</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/bryson-gardner">Bryson Gardner</a> – BACK, PELVIS | OUT</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – LEG, ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/enzo-lopes">Enzo Lopes</a> – SHOULDER, WRIST | IN</h4>
+<h4><a class="show_card" href="/rider/jeremy-martin">Jeremy Martin</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/dilan-schwartz">Dilan Schwartz</a> – BANGED UP | out</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – BACK | TBD</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/tj-albright">TJ Albright</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – WRISTS, HAND</h4>
+<h4><a class="show_card" href="/rider/max-miller">Max Miller</a> – BACK</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/jess-pettis">Jess Pettis</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/john-short">John Short</a>– BANGED UP</h4>
+<h4><a class="show_card" href="/rider/max-vohland">Max Vohland</a> – HIP</h4>
+<h4><a class="show_card" href="/rider/dylan-wood">Dylan Wood</a>COCK – BACK</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/justin-brayton">Justin Brayton</a> – CHEST | IN</h4>
+<h4><a class="show_card" href="/rider/josh-cartwright">Josh Cartwright</a> – ANKLE | IN</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/adam-enticknap">Adam Enticknap</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/grant-harlan">Grant Harlan</a> – HEAD, ELBOW, WRIST, CHEST, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/zach-osborne">Zach Osborne</a> - BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-politelli">Austin Politelli</a> – HEAD, SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/carter-stephenson">Carter Stephenson</a> | OUT</h4>
+<h4><a class="show_card" href="/rider/dakota-alix">Dakota Alix</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/sean-cantrell">Sean Cantrell</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/bryton-carrol">Bryton Carrol</a>l – RIBS, STERNUM, FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/martin-castelo">Martin Castelo</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/derek-drake">Derek Drake</a> – FEMUR | OUT</h4>
+<h4><a class="show_card" href="/rider/mitchell-falk">Mitchell Falk</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/bryson-gardner">Bryson Gardner</a> – BACK, PELVIS | OUT</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – LEG, ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/enzo-lopes">Enzo Lopes</a> – SHOULDER, WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/jeremy-martin">Jeremy Martin</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/jace-owen">Jace Owen</a> – KNEE | IN</h4>
+<h4><a class="show_card" href="/rider/dilan-schwartz">Dilan Schwartz</a> – BANGED UP | OUT</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – BACK | <span class="strikethrough">TBD</span>  IN</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/tj-albright">TJ Albright</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – WRISTS, HAND</h4>
+<h4><a class="show_card" href="/rider/max-miller">Max Miller</a> – BACK</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/jess-pettis">Jess Pettis</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/john-short">John Short</a>– BANGED UP</h4>
+<h4><a class="show_card" href="/rider/max-vohland">Max Vohland</a> – HIP</h4>
+<h4><a class="show_card" href="/rider/dylan-wood">Dylan Wood</a>COCK – BACK</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/justin-brayton">Justin Brayton</a> – CHEST | TBD</h4>
+<h4><a class="show_card" href="/rider/josh-cartwright">Josh Cartwright</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/adam-enticknap">Adam Enticknap</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – WRIST | IN</h4>
+<h4><a class="show_card" href="/rider/zach-osborne">Zach Osborne</a> - BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-rodbell">Justin Rodbell</a> – SHOULDER | IN</h4>
+<h4><a class="show_card" href="/rider/chase-sexton">Chase Sexton</a> – SHOULDER | IN</h4>
+<h4><a class="show_card" href="/rider/justin-starling">Justin Starling</a> – KNEE | IN</h4>
+<h4><a class="show_card" href="/rider/carter-stephenson">Carter Stephenson</a> | OUT</h4>
+<h4><a class="show_card" href="/rider/dakota-alix">Dakota Alix</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – KNEE | IN</h4>
+<h4><a class="show_card" href="/rider/sean-cantrell">Sean Cantrell</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/derek-drake">Derek Drake</a> – FEMUR | OUT</h4>
+<h4><a class="show_card" href="/rider/mitchell-falk">Mitchell Falk</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/bryson-gardner">Bryson Gardner</a> – BACK, PELVIS | OUT</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – LEG, ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/enzo-lopes">Enzo Lopes</a> – SHOULDER, WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/alex-martin">Alex Martin</a> – BANGED UP | IN</h4>
+<h4><a class="show_card" href="/rider/jeremy-martin">Jeremy Martin</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/jace-owen">Jace Owen</a> – knee | out</h4>
+<h4><a class="show_card" href="/rider/jerry-robin">Jerry Robin</a> – SHOULDER | IN</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/tj-albright">TJ Albright</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – WRISTS, HAND</h4>
+<h4><a class="show_card" href="/rider/max-miller">Max Miller</a> – BACK</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/jess-pettis">Jess Pettis</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/john-short">John Short</a>– BANGED UP</h4>
+<h4><a class="show_card" href="/rider/max-vohland">Max Vohland</a> – HIP</h4>
+<h4><a class="show_card" href="/rider/dylan-wood">Dylan Wood</a>COCK – BACK</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – BACK | IN</h4>
+<h4><a class="show_card" href="/rider/justin-brayton">Justin Brayton</a> – CHEST | <span class="strikethrough">TBD</span> Out</h4>
+<h4><a class="show_card" href="/rider/dylan-ferrandis">Dylan Ferrandis</a> – BANGED UP | IN</h4>
+<h4><a class="show_card" href="/rider/adam-enticknap">Adam Enticknap</a> – collarbone | out</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – Wrist | Out</h4>
+<h4><a class="show_card" href="/rider/alex-ray">Alex Ray</a> – ILLNESS | IN</h4>
+<h4><a class="show_card" href="/rider/justin-rodbell">Justin Rodbell</a> – Shoulder | out</h4>
+<h4><a class="show_card" href="/rider/chase-sexton">Chase Sexton</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/carter-stephenson">Carter Stephenson</a> | OUT</h4>
+<h4><a class="show_card" href="/rider/dakota-alix">Dakota Alix</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-cooper">Justin Cooper</a> – FOOT | IN</h4>
+<h4><a class="show_card" href="/rider/derek-drake">Derek Drake</a> – FEMUR | OUT</h4>
+<h4><a class="show_card" href="/rider/mitchell-falk">Mitchell Falk</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/bryson-gardner">Bryson Gardner</a> – BACK, PELVIS | OUT</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – LEG, ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/enzo-lopes">Enzo Lopes</a> – SHOULDER, WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/tj-albright">TJ Albright </a>– knee<a class="show_card" href="/rider/tj-albright"></a></h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner </a>– collarbone</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire </a>– wrists, hand</h4>
+<h4><a class="show_card" href="/rider/max-miller">Max Miller</a> – back</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – hand<a class="show_card" href="/rider/michael-mosiman"></a></h4>
+<h4><a class="show_card" href="/rider/jess-pettis">Jess Pettis </a>– knee<a class="show_card" href="/rider/jess-pettis"></a></h4>
+<h4><a class="show_card" href="/rider/john-short">John Short</a>– banged up</h4>
+<h4><a class="show_card" href="/rider/max-vohland">Max Vohland</a> – hip</h4>
+<h4><a class="show_card" href="/rider/dylan-wood">Dylan Wood</a>COCK – back</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/shane-mcelrath">Shane McElrath</a> – SHOULDER | IN</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – WRIST | IN</h4>
+<h4><a class="show_card" href="/rider/austin-politelli">Austin Politelli</a> – HEAD | IN</h4>
+<h4><a class="show_card" href="/rider/alex-ray">Alex Ray</a> – ILLNESS | OUT</h4>
+<h4><a class="show_card" href="/rider/chase-sexton">Chase Sexton</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/carter-stephenson">Carter Stephenson</a> | OUT</h4>
+<h4><a class="show_card" href="/rider/dean-wilson">Dean Wilson</a> – FOOT | TBD</h4>
+<h4><a class="show_card" href="/rider/tj-albright">TJ Albright</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – HAND, WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/devin-harriman">Devin Harriman</a> – WRIST | TBD</h4>
+<h4><a class="show_card" href="/rider/max-miller">Max Miller</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/jess-pettis">Jess Pettis</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/john-short">John Short</a> – BANGED UP | OUT</h4>
+<h4><a class="show_card" href="/rider/max-vohland">Max Vohland</a> – HIP |OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-wood">Dylan Wood</a>COCK – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/justin-cooper">Justin Cooper</a> – FOOT</h4>
+<h4><a class="show_card" href="/rider/derek-drake">Derek Drake</a> – FEMUR</h4>
+<h4><a class="show_card" href="/rider/mitchell-falk">Mitchell Falk</a> – LEG</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – LEG, ANKLE</h4>
+<h4><a class="show_card" href="/rider/enzo-lopes">Enzo Lopes</a> – SHOULDER, WRIST</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/jason-anderson">Jason Anderson</a> – FINGER | TBD</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/fredrik-noren">Fredrik Noren</a> – HEAD | IN</h4>
+<h4><a class="show_card" href="/rider/shane-mcelrath">Shane McElrath</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-politelli">Austin Politelli</a> – HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/chase-sexton">Chase Sexton</a> – SHOULDER | Out</h4>
+<h4><a class="show_card" href="/rider/dean-wilson">Dean Wilson</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/tj-albright">TJ Albright</a> – Knee | Out</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – HAND, WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/jett-lawrence">Jett Lawrence</a> – SHOULDER | TBD</h4>
+<h4><a class="show_card" href="/rider/jess-pettis">Jess Pettis</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/john-short">John Short</a> – BANGED UP | TBD</h4>
+<h4><a class="show_card" href="/rider/max-vohland">Max Vohland</a> –HIP |OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-wood">Dylan Wood</a>COCK – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/justin-cooper">Justin Cooper</a> – FOOT</h4>
+<h4><a class="show_card" href="/rider/derek-drake">Derek Drake</a> – FEMUR</h4>
+<h4><a class="show_card" href="/rider/mitchell-falk">Mitchell Falk</a> – LEG</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – LEG, ANKLE</h4>
+<h4><a class="show_card" href="/rider/enzo-lopes">Enzo Lopes</a> – SHOULDER, WRIST</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/vince-freise">Vince Friese</a> – BANGED UP | IN</h4>
+<h4><a class="show_card" href="/rider/shane-mcelrath">Shane McElrath</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/alex-ray">Alex Ray</a> – WRIST | IN</h4>
+<h4><a class="show_card" href="/rider/chase-sexton">Chase Sexton</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/dean-wilson">Dean Wilson </a>– FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – HAND, WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/jess-pettis">Jess Pettis</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/max-vohland">Max Vohland</a> –HIP |OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-wood">Dylan Wood</a>COCK – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/justin-cooper">Justin Cooper</a> – FOOT</h4>
+<h4><a class="show_card" href="/rider/derek-drake">Derek Drake</a> – FEMUR</h4>
+<h4><a class="show_card" href="/rider/mitchell-falk">Mitchell Falk</a> – LEG</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – LEG, ANKLE</h4>
+<h4><a class="show_card" href="/rider/enzo-lopes">Enzo Lopes</a> – SHOULDER, WRIST</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/shane-mcelrath">SHANE MCELRATH</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/chase-sexton">Chase Sexton</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/dean-wilson">Dean Wilson</a> - FOOT | IN</h4>
+<h4><a class="show_card" href="/rider/lorenzo-camporese">Lorenzo Camporese</a> – SHOULDER | TBD</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – SHOULDER | <span class="strikethrough">TBD</span> out</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – HAND | <span class="strikethrough">TBD</span> out</h4>
+<h4><a class="show_card" href="/rider/enzo-lopes">Enzo Lopes</a> – SHOULDER, WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/jess-pettis">Jess Pettis</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-wood">Dylan Wood</a>cock – back | out</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/justin-cooper">Justin Cooper</a> – FOOT</h4>
+<h4><a class="show_card" href="/rider/derek-drake">Derek Drake</a> – FEMUR</h4>
+<h4><a class="show_card" href="/rider/mitchell-falk">Mitchell Falk</a> – Leg</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – LEG, ANKLE</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – BACK, HIP, KNEE | IN</h4>
+<h4><a class="show_card" href="/rider/shane-mcelrath">Shane McElrath</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – LEG | IN</h4>
+<h4><a class="show_card" href="/rider/chase-sexton">Chase Sexton</a> – SHOULDER | out</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> — SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> — HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/enzo-lopes">Enzo Lopes</a>— SHOULDER, WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/jess-pettis">Jess Pettis</a>—KNEE | OUT</h4>
+<h4>MAX SANFORD – BANGED UP | TBD</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/derek-drake">Derek Drake</a> – FEMUR</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – LEG, ANKLE</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – BACK, HIP, KNEE | TBD</h4>
+<h4><a class="show_card" href="/rider/shane-mcelrath">Shane McElrath</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/enzo-lopes">Enzo Lopes</a> – WRIST | TBD</h4>
+<h4><a class="show_card" href="/rider/jess-pettis">Jess Pettis</a> - KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/derek-drake">Derek Drake</a> – Femur | OUT</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – Leg, Ankle | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-ferrandis">Dylan Ferrandis</a> – HAND | IN</h4>
+<h4><a class="show_card" href="/rider/shane-mcelrath">Shane McElrath</a> – SHOULDER | <span class="strikethrough">TBD </span>Out</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/derek-drake">Derek Drake</a> – Femur | OUT</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – Leg, Ankle | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/jason-anderson">Jason Anderson</a> – ARM | OUT</h4>
+<h4><a class="show_card" href="/rider/blake-baggett">Blake Baggett</a> – HAND/WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-barcia">Justin Barcia</a> – SORE | TBD</h4>
+<h4><a class="show_card" href="/rider/jeremy-hand">Jeremy Hand</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/aaron-plessinger">Aaron Plessinger</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/luke-renzland">Luke Renzland</a> - HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/ken-roczen">Ken Roczen</a> – ONGOING HEALTH ISSUES | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – ANKLE/FOOT | TBD</h4>
+<h4><a class="show_card" href="/rider/john-short">John Short</a> – BANGED UP | OUT</h4>
+<h4><a class="show_card" href="/rider/cooper-webb">Cooper Webb</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/dean-wilson">Dean Wilson</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/derek-drake">Derek Drake</a> – HEALTH ISSUES | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – INTERNAL INJURIES | OUT</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – BANGED UP | OUT</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/garrett-marchbanks">Garrett Marchbanks</a> – RIBS, BACK, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/ty-masterpool"></a><a class="show_card" href="/rider/ty-masterpool">Ty Masterpool</a> – LEG | Out</h4>
+<h4><a class="show_card" href="/rider/cameron-mcadoo">Cameron McAdoo</a> – HAND, FINGERS | IN</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/stilez-robertson">Stilez Robertson</a> – HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/darian-sanayei">Darian Sanayei</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/jalek-swoll">Jalek Swoll</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/tevin-tapia">Tevin Tapia</a> - NECK | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/jason-anderson">Jason Anderson</a> – ARM | OUT</h4>
+<h4><a class="show_card" href="/rider/benny-bloss">Benny Bloss</a> – DINGED UP | IN</h4>
+<h4><a class="show_card" href="/rider/jeremy-hand">Jeremy Hand</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/aaron-plessinger">Aaron Plessinger</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/luke-renzland">Luke Renzland</a> - HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/ken-roczen">Ken Roczen</a> – ONGOING HEALTH ISSUES | OUT</h4>
+<h4><a class="show_card" href="/rider/john-short">John Short</a> – BANGED UP | IN</h4>
+<h4><a class="show_card" href="/rider/jeremy-smith">Jeremy Smith</a> - TAILBONE | IN</h4>
+<h4><a class="show_card" href="/rider/broc-tickle">Broc Tickle</a> – ABDOMEN, KNEE | IN</h4>
+<h4><a class="show_card" href="/rider/cooper-webb">Cooper Webb</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/dean-wilson">Dean Wilson</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – INTERNAL INJURIES | OUT</h4>
+<h4><a class="show_card" href="/rider/mason-gonzales">Mason Gonzales</a> – “A BIT SORE” | IN</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – BANGED UP | IN</h4>
+<h4><a class="show_card" href="/rider/garrett-marchbanks">Garrett Marchbanks</a> – RIBS, BACK, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/ty-masterpool"></a><a class="show_card" href="/rider/ty-masterpool">Ty Masterpool</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/darian-sanayei">Darian Sanayei</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/jalek-swoll">Jalek Swoll</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/tevin-tapia">Tevin Tapia</a> - NECK | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/jason-anderson">Jason Anderson</a> – ARM | OUT</h4>
+<h4><a class="show_card" href="/rider/tyler-bowers">Tyler Bowers</a> - RIB | IN</h4>
+<h4><a class="show_card" href="/rider/jeremy-hand">Jeremy Hand</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/aaron-plessinger">Aaron Plessinger</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/luke-renzland">Luke Renzland</a> - HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/ken-roczen">Ken Roczen</a> – ONGOING HEALTH ISSUES | OUT</h4>
+<h4><a class="show_card" href="/rider/john-short">John Short</a> – BANGED UP | OUT</h4>
+<h4><a class="show_card" href="/rider/broc-tickle">Broc Tickle</a> – ABDOMEN, KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/cooper-webb">Cooper Webb</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/dean-wilson">Dean Wilson</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – INTERNAL INJURIES | OUT</h4>
+<h4><a class="show_card" href="/rider/garrett-marchbanks">Garrett Marchbanks</a> – RIBS, BACK, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/ty-masterpool"></a><a class="show_card" href="/rider/ty-masterpool">Ty Masterpool</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/cameron-mcadoo"></a><a class="show_card" href="/rider/cameron-mcadoo">Cameron Mcadoo</a> – STOMACH | IN</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/darian-sanayei">Darian Sanayei</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/tevin-tapia">Tevin Tapia</a> - NECK | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/jason-anderson">Jason Anderson</a> – ARM | OUT</h4>
+<h4><a class="show_card" href="/rider/benny-bloss">Benny Bloss</a> – ANKLE | IN</h4>
+<h4><a class="show_card" href="/rider/jeremy-hand">Jeremy Hand</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/aaron-plessinger">Aaron Plessinger</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/luke-renzland">Luke Renzland</a> - HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/ken-roczen">Ken Roczen</a> – ONGOING HEALTH ISSUES | OUT</h4>
+<h4><a class="show_card" href="/rider/cooper-webb">Cooper Webb</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/dean-wilson">Dean Wilson</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – INTERNAL INJURIES | OUT</h4>
+<h4><a class="show_card" href="/rider/jarrett-frye">Jarrett Frye</a> – KNEE | IN</h4>
+<h4><a class="show_card" href="/rider/garrett-marchbanks">Garrett Marchbanks</a> – RIBS, BACK, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/ty-masterpool"></a><a class="show_card" href="/rider/ty-masterpool">Ty Masterpool</a> - LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/darian-sanayei">Darian Sanayei</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/tevin-tapia">Tevin Tapia</a> - NECK | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/jason-anderson">Jason Anderson</a> – ARM | OUT</h4>
+<h4><a class="show_card" href="/rider/benny-bloss">Benny Bloss</a> – ANKLE | IN</h4>
+<h4><a class="show_card" href="/rider/jeremy-hand">Jeremy Hand</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/aaron-plessinger">Aaron Plessinger</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/luke-renzland">Luke Renzland</a> - head | out</h4>
+<h4><a class="show_card" href="/rider/ken-roczen">Ken Roczen</a> – ONGOING HEALTH ISSUES | OUT</h4>
+<h4><a class="show_card" href="/rider/cooper-webb">Cooper Webb</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – INTERNAL INJURIES | OUT</h4>
+<h4><a class="show_card" href="/rider/jarrett-frye">Jarrett Frye</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/garrett-marchbanks">Garrett Marchbanks</a> – RIBS, BACK, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/tevin-tapia">Tevin Tapia</a> - NECK | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/jason-anderson">Jason Anderson</a> – ARM | TBD</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – BANGED UP | IN</h4>
+<h4><a class="show_card" href="/rider/jeremy-hand">Jeremy Hand</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/aaron-plessinger">Aaron Plessinger</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/ken-roczen">Ken Roczen</a> – ONGOING HEALTH ISSUES | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – ANKLE | IN</h4>
+<h4><a class="show_card" href="/rider/cooper-webb">Cooper Webb</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – INTERNAL INJURIES | OUT</h4>
+<h4><a class="show_card" href="/rider/jarrett-frye">Jarrett Frye</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/garrett-marchbanks">Garrett Marchbanks</a> – RIBS, BACK, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/ty-masterpool"></a><a class="show_card" href="/rider/ty-masterpool">Ty Masterpool</a> – LEG | IN</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/darian-sanayei">Darian Sanayei</a> – SHOULDER | in</h4>
+<h4><a class="show_card" href="/rider/jalek-swoll">Jalek Swoll</a> – HEAD | IN</h4>
+<h4><a class="show_card" href="/rider/tevin-tapia">Tevin Tapia</a> - NECK | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/jeremy-hand">Jeremy Hand</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/aaron-plessinger">Aaron Plessinger</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/ken-roczen">Ken Roczen</a> – ONGOING HEALTH ISSUES | OUT</h4>
+<h4><a class="show_card" href="/rider/cooper-webb">Cooper Webb</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – INTERNAL INJURIES | OUT<a href="https://www.instagram.com/p/CEDM_DohWHr/"></a></h4>
+<h4><a class="show_card" href="/rider/jarrett-frye">Jarrett Frye</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/hunter-lawrence">Hunter Lawrence</a> – SHOULDER | IN</h4>
+<h4><a class="show_card" href="/rider/garrett-marchbanks">Garrett Marchbanks</a> – RIBS, BACK, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/ty-masterpool"></a><a class="show_card" href="/rider/ty-masterpool">Ty Masterpool</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/kevin-moranz">Kevin Moranz</a> – BANGED UP | IN</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/darian-sanayei">Darian Sanayei</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/jalek-swoll">Jalek Swoll</a> – HEAD | OUT</h4>
+<h4><a class="show_card" href="/rider/tevin-tapia">Tevin Tapia</a> - NECK | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION | TBD</h4>
+<h4><a class="show_card" href="/rider/jeremy-hand">Jeremy Hand</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/aaron-plessinger">Aaron Plessinger</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/ken-roczen">Ken Roczen</a> – ONGOING HEALTH ISSUES | OUT</h4>
+<h4><a class="show_card" href="/rider/cooper-webb">Cooper Webb</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – COLLARBONE, CONCUSSION | <span class="strikethrough">OUT</span> in</h4>
+<h4><a class="show_card" href="/rider/austin-forkner">Austin Forkner</a> – INTERNAL INJURIES | OUT</h4>
+<h4><a class="show_card" href="/rider/jarrett-frye">Jarrett Frye</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/garrett-marchbanks">Garrett Marchbanks</a> – RIBS, BACK, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/ty-masterpool"></a><a class="show_card" href="/rider/ty-masterpool">Ty Masterpool</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/kevin-moranz">Kevin Moranz</a> – BANGED UP | OUT</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – UNDISCLOSED | OUT</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/darian-sanayei">Darian Sanayei</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/jalek-swoll">Jalek Swoll</a> – HEAD | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE | IN</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION | IN</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – BACK | IN</h4>
+<h4><a class="show_card" href="/rider/jeremy-hand">Jeremy Hand</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE | IN</h4>
+<h4><a class="show_card" href="/rider/aaron-plessinger">Aaron Plessinger</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/ken-roczen">Ken Roczen</a> – ONGOING HEALTH ISSUES | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT | IN</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – COLLARBONE, CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/jarrett-frye">Jarrett Frye</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – KNEE | IN</h4>
+<h4><a class="show_card" href="/rider/garrett-marchbanks">Garrett Marchbanks</a> – RIBS, BACK, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/ty-masterpool"></a><a class="show_card" href="/rider/ty-masterpool">Ty Masterpool</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/michael-mosiman">Michael Mosiman</a> – Undisclosed | Out</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – hand | OUT</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – KNEE, TOES | OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-merriam">Dylan Merriam</a> – PELVIS | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/jordan-bailey">Jordan Bailey</a> – THUMB | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – COLLARBONE, CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/grant-harlan">Grant Harlan</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/josh-hill">Josh Hill</a> – HIP | OUT</h4>
+<h4><a class="show_card" href="/rider/garrett-marchbanks">Garrett Marchbanks</a> – RIBS, BACK, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/killian-auberson">Killian Auberson</a> – NECK, BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/carson-brown">Carson Brown</a> – THUMB | OUT</h4>
+<h4><a class="show_card" href="/rider/jacob-hayes">Jacob Hayes</a> – FEMUR, KNEES, WRIST | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – KNEE, TOES | OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-merriam">Dylan Merriam</a> – PELVIS | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/jordan-bailey">Jordan Bailey</a> – THUMB | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – COLLARBONE, CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/grant-harlan">Grant Harlan</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/josh-hill">Josh Hill</a> – HIP | OUT</h4>
+<h4><a class="show_card" href="/rider/garrett-marchbanks">Garrett Marchbanks</a> – RIBS, BACK, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/carson-brown">Carson Brown</a> – THUMB | OUT</h4>
+<h4><a class="show_card" href="/rider/jacob-hayes">Jacob Hayes</a> – FEMUR, KNEES, WRIST | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – KNEE, TOES | OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-merriam">Dylan Merriam</a> – PELVIS | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/jacob-hayes">Jacob Hayes</a> – FEMUR, KNEES, WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/jordan-bailey">Jordan Bailey</a> – THUMB</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – COLLARBONE, CONCUSSION</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/grant-harlan">Grant Harlan</a> – WRIST</h4>
+<h4><a class="show_card" href="/rider/josh-hill">Josh Hill</a> – HIP</h4>
+<h4><a class="show_card" href="/rider/garrett-marchbanks">Garrett Marchbanks</a> – RIBS, BACK</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – FOOT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – KNEE, TOES | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/alex-ray">Alex Ray</a> – KNEE | IN</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/broc-tickle">Broc Tickle</a> – HAND | IN</h4>
+<h4><a class="show_card" href="/rider/christian-craig">Christian Craig</a> – HAND, FINGER | IN</h4>
+<h4><a class="show_card" href="/rider/jacob-hayes">Jacob Hayes</a> – FEMUR, KNEES, WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/hunter-lawrence">Hunter Lawrence</a> – SHOULDER | IN</h4>
+<h4><a class="show_card" href="/rider/jett-lawrence">Jett Lawrence</a> – HEAD, COLLARBONE | IN</h4>
+<h4><a class="show_card" href="/rider/mitchell-oldenburg">Mitchell Oldenburg</a> – KNEE | IN</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/jordan-bailey">Jordan Bailey</a> – THUMB</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – COLLARBONE, CONCUSSION</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/grant-harlan">Grant Harlan</a> – WRIST</h4>
+<h4><a class="show_card" href="/rider/josh-hill">Josh Hill</a> – HIP</h4>
+<h4><a class="show_card" href="/rider/garrett-marchbanks">Garrett Marchbanks</a> – RIBS, BACK</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – KNEE, TOES | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/broc-tickle">Broc Tickle</a> – HAND | IN</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – COLLARBONE, CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/nick-gaines">Nick Gaines</a> – SHOULDER | IN</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/grant-harlan">Grant Harlan</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/josh-hill">Josh Hill</a> – HIP | OUT</h4>
+<h4><a class="show_card" href="/rider/enzo-lopes">Enzo Lopes</a> – SHOULDER | Out</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/christian-craig">Christian Craig</a> – HAND, FINGER | IN</h4>
+<h4><a class="show_card" href="/rider/jacob-hayes">Jacob Hayes</a> – FEMUR, KNEES, WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/hunter-lawrence">Hunter Lawrence</a> – SHOULDER | IN</h4>
+<h4><a class="show_card" href="/rider/jett-lawrence">Jett Lawrence</a> – HEAD, COLLARBONE | IN</h4>
+<h4><a class="show_card" href="/rider/mitchell-oldenburg">Mitchell Oldenburg</a> – KNEE | IN</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – FOOT | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – BANGED UP | IN</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – KNEE, TOES | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/fredrik-noren">Fredrik Noren</a> – LEG | IN</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/broc-tickle">Broc Tickle</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – COLLARBONE, CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/josh-hill">Josh Hill</a> – HIP | OUT</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/christian-craig">Christian Craig</a> – HAND, FINGER | IN</h4>
+<h4><a class="show_card" href="/rider/jacob-hayes">Jacob Hayes</a> – FEMUR, KNEES, WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/hunter-lawrence">Hunter Lawrence</a> – SHOULDER | IN</h4>
+<h4><a class="show_card" href="/rider/jett-lawrence">Jett Lawrence</a> – HEAD, COLLARBONE | IN</h4>
+<h4><a class="show_card" href="/rider/mitchell-oldenburg">Mitchell Oldenburg</a> – KNEE | IN</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – FOOT | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-brayton">Justin Brayton</a> – HAND | IN</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – COLLARBONE | IN</h4>
+<h4><a class="show_card" href="/rider/kyle-cunningham">Kyle Cunningham</a> – SHOULDER | IN</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – KNEE, TOES | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/fredrik-noren">Fredrik Noren</a> – LEG | IN</h4>
+<h4><a class="show_card" href="/rider/zach-osborne">Zach Osborne</a> – RIB, LUNGS, WRIST | IN</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/broc-tickle">Broc Tickle</a> – HAND | IN</h4>
+<h4><a class="show_card" href="/rider/chris-blose">Chris Blose</a> – CONCUSSION, HIP, ARM/WRIST, LIVER, RIBS | IN</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – COLLARBONE, CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/nick-gaines">Nick Gaines</a> – HAND | IN</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/josh-hill">Josh Hill</a> – Hip | Out </h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – SHOULDER | IN</h4>
+<h4><a class="show_card" href="/rider/kyle-peters">Kyle Peters</a> – HAND | IN</h4>
+<h4><a class="show_card" href="/rider/jerry-robin">Jerry Robin</a> – HAND | IN</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/christian-craig">Christian Craig</a> – HAND, FINGER | IN</h4>
+<h4><a class="show_card" href="/rider/jacob-hayes">Jacob Hayes</a> – FEMUR, KNEES, WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/hunter-lawrence">Hunter Lawrence</a> – SHOULDER | IN</h4>
+<h4><a class="show_card" href="/rider/jett-lawrence">Jett Lawrence</a> – HEAD, COLLARBONE | IN</h4>
+<h4><a class="show_card" href="/rider/mitchell-oldenburg">Mitchell Oldenburg</a> – KNEE | IN</h4>
+<h4><a class="show_card" href="/rider/coty-schock">Coty Schock</a> – ARMS | IN</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – FOOT | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE</h4>
+<h4><a class="show_card" href="/rider/chris-blose">Chris Blose</a> – CONCUSSION, HIP, ARM/WRIST, LIVER, RIBS</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION</h4>
+<h4><a class="show_card" href="/rider/justin-brayton">Justin Brayton</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/kyle-cunningham">Kyle Cunningham</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – KNEE, TOES</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/fredrik-noren">Fredrik Noren</a> – LEG</h4>
+<h4><a class="show_card" href="/rider/zach-osborne">Zach Osborne</a> – RIB, LUNGS, WRIST</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT</h4>
+<h4><a class="show_card" href="/rider/broc-tickle">Broc Tickle</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/ramyller-alves">Ramyller Alves</a> – knee</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/nick-gaines">Nick Gaines</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/rj-hampshire">RJ Hampshire</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/hunter-lawrence">Hunter Lawrence</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/brian-moreau">Brian Moreau</a> – BACK</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/brock-papi">Brock Papi</a> – COLLARBONE, KNEE</h4>
+<h4><a class="show_card" href="/rider/kyle-peters">Kyle Peters</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/jerry-robin">Jerry Robin</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/lane-shaw">Lane Shaw</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/isaac-teasdale">Isaac Teasdale</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – FOOT</h4>
+<h4><a class="show_card" href="/rider/christian-craig">Christian Craig</a> – HAND, FINGER</h4>
+<h4><a class="show_card" href="/rider/jett-lawrence">Jett Lawrence</a> – HEAD, COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/mitchell-oldenburg">Mitchell Oldenburg</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/josh-osby">Josh Osby</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/coty-schock">Coty Schock</a> – ARMS</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE</h4>
+<h4><a class="show_card" href="/rider/chris-blose">Chris Blose</a> – CONCUSSION, HIP, ARM/WRIST, LIVER, RIBS</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION</h4>
+<h4><a class="show_card" href="/rider/justin-brayton">Justin Brayton</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/kyle-cunningham">Kyle Cunningham</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/ben-lamay">Ben LaMay</a> – THUMB</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – KNEE, TOES</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/fredrik-noren">Fredrik Noren</a> – LEG</h4>
+<h4><a class="show_card" href="/rider/zach-osborne">Zach Osborne</a> – RIB, LUNGS, WRIST</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT</h4>
+<h4><a class="show_card" href="/rider/broc-tickle">Broc Tickle</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/ramyller-alves">Ramyller Alves</a> – WRIST</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/nick-gaines">Nick Gaines</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/hunter-lawrence">Hunter Lawrence</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/brian-moreau">Brian Moreau</a> – BACK</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/kyle-peters">Kyle Peters</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/jerry-robin">Jerry Robin</a> – HAND</h4>
+<h4><a class="show_card" href="/rider/lane-shaw">Lane Shaw</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/jordon-smith">Jordon Smith</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/isaac-teasdale">Isaac Teasdale</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/justin-thompson">Justin Thompson</a> – Foot</h4>
+<h4><a class="show_card" href="/rider/christian-craig">Christian Craig</a> – HAND, FINGER</h4>
+<h4><a class="show_card" href="/rider/jett-lawrence">Jett Lawrence</a> – HEAD, COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/mitchell-oldenburg">Mitchell Oldenburg</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/josh-osby">Josh Osby</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/coty-schock">Coty Schock</a> – ARMS</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/chris-blose">Chris Blose</a> – CONCUSSION, HIP, ARM/WRIST, LIVER, RIBS | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/joshua-cartwright">Joshua Cartwright</a> – WRISt/HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/kyle-cunningham">Kyle Cunningham</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/ben-lamay">Ben LaMay</a> – THUMB | OUT</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – KNEE, TOES | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/fredrik-noren">Fredrik Noren</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/zach-osborne">Zach Osborne</a> – RIB, LUNGS, WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/broc-tickle">Broc Tickle</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/ramyller-alves">Ramyller Alves</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-crown">Joey Crown</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/ryder-floyd"></a><a class="show_card" href="/rider/ryder-floyd">Ryder Floyd</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/hunter-lawrence">Hunter Lawrence</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/brian-moreau">Brian Moreau</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/jace-owen">Jace Owen</a> – HAND, ARM, ILNESS | IN</h4>
+<h4><a class="show_card" href="/rider/kyle-peters">Kyle Peters</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/isaac-teasdale">Isaac Teasdale</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/christian-craig">Christian Craig</a> – HAND, FINGER</h4>
+<h4><a class="show_card" href="/rider/derek-kelley">Derek Kelley</a> – LEG</h4>
+<h4><a class="show_card" href="/rider/jett-lawrence">Jett Lawrence</a> – HEAD, COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/mitchell-oldenburg">Mitchell Oldenburg</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/josh-osby">Josh Osby</a> – KNEE</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/chris-blose">Chris Blose</a> – CONCUSSION, HIP, ARM/WRIST, LIVER, RIBS | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/joshua-cartwright">Joshua Cartwright</a> – WRIST/HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/adam-cianciarulo">Adam Cianciarulo</a> – COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/ben-lamay">Ben LaMay</a> – THUMB | OUT</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – KNEE, TOES | OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-merriam">Dylan Merriam</a> – RIBS, COLLARBONE | IN</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/fredrik-noren">Fredrik Noren</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/zach-osborne">Zach Osborne</a> – Rib, lungs, Wrist | Out</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/dakota-tedder">Dakota Tedder</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/broc-tickle">Broc Tickle</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/cooper-webb">Cooper Webb</a> – BANGED UP | IN</h4>
+<h4><a class="show_card" href="/rider/ramyller-alves">Ramyller Alves</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – BANGED UP | IN</h4>
+<h4><a class="show_card" href="/rider/jimmy-decotis">Jimmy Decotis</a> – BANGED UP | IN</h4>
+<h4><a class="show_card" href="/rider/ryder-floyd"></a><a class="show_card" href="/rider/ryder-floyd">Ryder Floyd</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/hunter-lawrence">Hunter Lawrence</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/brian-moreau">Brian Moreau</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – SHOULDER | TBD</h4>
+<h4><a class="show_card" href="/rider/jace-owen">Jace Owen</a> – HAND, ARM, ILNESS | OUT</h4>
+<h4><a class="show_card" href="/rider/kyle-peters">Kyle Peters</a> – HAND | OUT</h4>
+<h4><a class="show_card" href="/rider/christian-craig">Christian Craig</a> – HAND, FINGER</h4>
+<h4><a class="show_card" href="/rider/derek-kelley">Derek Kelley</a> – LEG</h4>
+<h4><a class="show_card" href="/rider/jett-lawrence">Jett Lawrence</a> – HEAD, COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/mitchell-oldenburg">Mitchell Oldenburg</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/josh-osby">Josh Osby</a> – KNEE</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/blake-baggett">Blake Baggett</a> – NECK, BACK | IN</h4>
+<h4><a class="show_card" href="/rider/chris-blose">Chris Blose</a> – CONCUSSION, HIP, ARM/WRIST, LIVER, RIBS | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – KNEE, TOES | OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-merriam">Dylan Merriam</a> – RIBS, COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – SCAPULA, LUNG | IN</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/fredrik-noren">Fredrik Noren</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/alex-ray">Alex Ray</a> – BANGED UP | IN</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/dakota-tedder">Dakota Tedder</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/ramyller-alves">Ramyller Alves</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – BANGED UP | OUT</h4>
+<h4><a class="show_card" href="/rider/ryder-floyd"><a class="show_card" href="/rider/ryder-floyd">Ryder Floyd</a></a> – ankle | OUT</h4>
+<h4><a class="show_card" href="/rider/hunter-lawrence">Hunter Lawrence</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/brian-moreau">Brian Moreau</a> – BACK | OUT</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/christian-craig">Christian Craig</a> – HAND, FINGER</h4>
+<h4><a class="show_card" href="/rider/derek-kelley">Derek Kelley</a> – LEG</h4>
+<h4><a class="show_card" href="/rider/jett-lawrence">Jett Lawrence</a> – HEAD, COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/mitchell-oldenburg">Mitchell Oldenburg</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/josh-osby">Josh Osby</a> – KNEE</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/chris-blose">Chris Blose</a> – CONCUSSION, HIP, ARM/WRIST, LIVER, RIBS | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – KNEE, TOES | OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-merriam">Dylan Merriam</a> – RIBS, COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – SCAPULA, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/fredrik-noren">Fredrik Noren</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/dakota-tedder">Dakota Tedder</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/pierce-brown">Pierce Brown</a> – BANGED UP | OUT</h4>
+<h4><a class="show_card" href="/rider/hunter-lawrence">Hunter Lawrence</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/jeremy-martin">Jeremy Martin</a> – BACK | IN</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/chase-sexton">Chase Sexton</a> – COLLARBONE | IN</h4>
+<h4><a class="show_card" href="/rider/ramyller-alves">Ramyller Alves</a> - WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/christian-craig">Christian Craig</a> – HAND, FINGER</h4>
+<h4><a class="show_card" href="/rider/derek-kelley">Derek Kelley</a> – LEG</h4>
+<h4><a class="show_card" href="/rider/jett-lawrence">Jett Lawrence</a> – HEAD, COLLARBONE</h4>
+<h4><a class="show_card" href="/rider/mitchell-oldenburg">Mitchell Oldenburg</a> – KNEE</h4>
+<h4><a class="show_card" href="/rider/josh-osby">Josh Osby</a> – KNEE</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/chris-blose">Chris Blose</a> – CONCUSSION, HIP, ARM/WRIST, LIVER, RIBS | OUT</h4>
+<h4><a class="show_card" href="/rider/benny-bloss">Benny Bloss</a> – CONCUSSION | IN</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION | TBD</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – KNEE, TOES | OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-merriam">Dylan Merriam</a> – RIBS, COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – SCAPULA, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/fredrik-noren">Fredrik Noren</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/chad-reed">Chad Reed</a> – Ribs | TBD</h4>
+<h4><a class="show_card" href="/rider/ken-roczen">Ken Roczen</a> – FOOT | IN</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/tevin-tapia">Tevin Tapia</a> – SHOULDER | IN</h4>
+<h4><a class="show_card" href="/rider/dakota-tedder">Dakota Tedder</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/christian-craig">Christian Craig</a> – HAND, FINGER | OUT</h4>
+<h4><a class="show_card" href="/rider/jett-lawrence">Jett Lawrence</a> – HEAD, COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/mitchell-oldenburg">Mitchell Oldenburg</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/josh-osby">Josh Osby</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/hunter-lawrence">Hunter Lawrence</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/jeremy-martin">Jeremy Martin</a> – BACK</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/chase-sexton">Chase Sexton</a> – COLLARBONE</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/chris-blose">Chris Blose</a> – CONCUSSION, HIP, ARM/WRIST, LIVER, RIBS| OUT</h4>
+<h4><a class="show_card" href="/rider/benny-bloss">Benny Bloss</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/justin-bogle">Justin Bogle</a> – CONCUSSION | OUT</h4>
+<h4><a class="show_card" href="/rider/kyle-p-chisholm">Kyle Chisholm</a> – RIBS, LUNG, SHOULDER | TBD</h4>
+<h4><a class="show_card" href="/rider/cade-clason">Cade Clason</a> – THUMB | IN</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – KNEE, TOES | OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-merriam">Dylan Merriam</a> – RIBS, COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – SCAPULA, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/fredrik-noren">Fredrik Noren</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/deven-raper"></a><a class="show_card" href="/rider/deven-raper">Deven Raper</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/tevin-tapia">Tevin Tapia</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/dakota-tedder">Dakota Tedder</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/christian-craig">Christian Craig</a> – HAND, FINGER | OUT</h4>
+<h4><a class="show_card" href="/rider/jett-lawrence">Jett Lawrence</a> – HEAD, COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/cameron-mcadoo"></a><a class="show_card" href="/rider/cameron-mcadoo">Cameron Mcadoo</a> – LUNGS | IN</h4>
+<h4><a class="show_card" href="/rider/josh-osby">Josh Osby</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/hunter-lawrence">Hunter Lawrence</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/jeremy-martin">Jeremy Martin</a> – BACK</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/chase-sexton">Chase Sexton</a> – COLLARBONE</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/kyle-p-chisholm">Kyle Chisholm</a> – RIBS, LUNG, SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/cade-clason">Cade Clason</a> – THUMB | TBD</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – KNEE, TOES | OUT</h4>
+<h4><a class="show_card" href="/rider/dylan-merriam">Dylan Merriam</a> – RIBS, COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – SCAPULA, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/fredrik-noren">Fredrik Noren</a> – LEG | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/tevin-tapia">Tevin Tapia</a> – SHOULDER | OUT</h4>
+<h4><a class="show_card" href="/rider/dakota-tedder">Dakota Tedder</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/jett-lawrence">Jett Lawrence</a> – HEAD, COLLARBONE | OUT</h4>
+<h4><a class="show_card" href="/rider/cameron-mcadoo"></a><a class="show_card" href="/rider/cameron-mcadoo">Cameron Mcadoo</a> – LUNGS | OUT</h4>
+<h4><a class="show_card" href="/rider/josh-osby">Josh Osby</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/hunter-lawrence">Hunter Lawrence</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/jeremy-martin">Jeremy Martin</a> – BACK</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/chase-sexton">Chase Sexton</a> – COLLARBONE</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – Ankle | Out</h4>
+<h4><a class="show_card" href="/rider/adam-enticknap">Adam Enticknap</a> – Wrist | Tbd</h4>
+<h4><a class="show_card" href="/rider/vann-martin">Vann Martin</a> – Knee, Toes | Out</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – Scapula, Lung | Out</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – Knee | Out</h4>
+<h4><a class="show_card" href="/rider/fredrik-noren">Fredrik Noren</a> – Leg | Out</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – Foot | Out</h4>
+<h4><a class="show_card" href="/rider/tevin-tapia">Tevin Tapia</a> – Shoulder | Out</h4>
+<h4><a class="show_card" href="/rider/dakota-tedder">Dakota Tedder</a> – Wrist | Out</h4>
+<h4><a class="show_card" href="/rider/cameron-mcadoo"></a><a class="show_card" href="/rider/cameron-mcadoo">Cameron Mcadoo</a> – Lungs | Out</h4>
+<h4><a class="show_card" href="/rider/josh-osby">Josh Osby</a> – Knee | Out</h4>
+<h4><a class="show_card" href="/rider/hunter-lawrence">Hunter Lawrence</a> – Shoulder</h4>
+<h4><a class="show_card" href="/rider/jeremy-martin">Jeremy Martin</a> – Back</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – Shoulder</h4>
+<h4><a class="show_card" href="/rider/chase-sexton">Chase Sexton</a> – Collarbone</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – ANKLE | OUT</h4>
+<h4><a class="show_card" href="/rider/adam-enticknap">Adam Enticknap</a> – WRIST | OUT</h4>
+<h4><a class="show_card" href="/rider/henry-miller">Henry Miller</a> – SCAPULA, LUNG | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – FOOT | OUT</h4>
+<h4><a class="show_card" href="/rider/hunter-lawrence">Hunter Lawrence</a> – SHOULDER </h4>
+<h4><a class="show_card" href="/rider/jeremy-martin">Jeremy Martin</a> – BACK</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – SHOULDER</h4>
+<h4><a class="show_card" href="/rider/josh-osby">Josh Osby</a> – KNEE | OUT</h4>
+<h4><a class="show_card" href="/rider/chase-sexton">Chase Sexton</a> – COLLARBONE</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4><a class="show_card" href="/rider/max-anstie">Max Anstie</a> – Ankle | OUT</h4>
+<h4><a class="show_card" href="/rider/marvin-musquin">Marvin Musquin</a> – Knee | OUT</h4>
+<h4><a class="show_card" href="/rider/joey-savatgy">Joey Savatgy</a> – Foot | OUT</h4>
+<h4><a class="show_card" href="/rider/dean-wilson">Dean Wilson</a> – Hip | IN</h4>
+<h4><a class="show_card" href="/rider/jeremy-martin">Jeremy Martin</a> – Back | IN</h4>
+<h4><a class="show_card" href="/rider/colt-nichols">Colt Nichols</a> – Shoulder | OUT</h4>
+<h4><a class="show_card" href="/rider/josh-osby">Josh Osby</a> - Injured | OUT</h4>
+<h4><a class="show_card" href="/rider/chase-sexton">Chase Sexton</a> – Collarbone | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>BLAKE BAGGETT – ILLNESS | OUT</h4>
+<h4>JUSTIN BOGLE - EPSTEIN-BARR VIRUS | IN</h4>
+<h4>NICK FRATZ-ORR – KNEE | OUT</h4>
+<h4>JUSTIN HILL – SHOULDER | OUT</h4>
+<h4>DYLAN MERRIAM – HAND | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH/EYE INJURIES | OUT</h4>
+<h4>COLE SEELY – SHOULDER | OUT</h4>
+<h4>COOPER WEBB – KNEE | OUT</h4>
+<h4>SEAN CANTRELL – WRIST | OUT</h4>
+<h4>JOEY CROWN - THUMB | OUT</h4>
+<h4>DEREK DRAKE – ANKLE | OUT</h4>
+<h4>AUSTIN FORKNER – KNEE | OUT</h4>
+<h4>JACOB HAYES – KNEE | OUT</h4>
+<h4>GARRETT MARCHBANKS – ANKLE | IN</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>COLT NICHOLS – BANGED UP | OUT</h4>
+<h4>JORDON SMITH — WRIST | OUT</h4>
+<h4>JALEK SWOLL – GROIN | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>BLAKE BAGGETT – ILLNESS | OUt</h4>
+<h4>JUSTIN HILL – SHOULDER | OUT</h4>
+<h4>DYLAN MERRIAM – HAND | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH/EYE INJURIES | OUT</h4>
+<h4>COLE SEELY – SHOULDER | OUT</h4>
+<h4>COOPER WEBB – KNEE | OUT</h4>
+<h4>KILLIAN AUBERSON – HEAD | IN</h4>
+<h4>THOMAS COVINGTON – ILLNESS | IN</h4>
+<h4>JOEY CROWN - THUMB | OUT</h4>
+<h4>AUSTIN FORKNER – KNEE | OUT</h4>
+<h4>JACOB HAYES – KNEE | OUT</h4>
+<h4>HUNTER LAWRENCE – COLLARBONE | IN</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>JO SHIMODA – SHOULDER | IN</h4>
+<h4>JORDON SMITH — WRIST | OUT</h4>
+<h4>JALEK SWOLL – BANGED UP | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>BLAKE BAGGETT – ILLNESS | TBD</h4>
+<h4>BENNY BLOSS – BANGED UP | IN</h4>
+<h4>JUSTIN HILL – SHOULDER | OUT</h4>
+<h4>DYLAN MERRIAM – HAND | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH/EYE INJURIES | OUT</h4>
+<h4>COLE SEELY – SHOULDER | OUT</h4>
+<h4>KILLIAN AUBERSON – HEAD | OUT</h4>
+<h4>THOMAS COVINGTON – ILLNESS | OUT</h4>
+<h4>JOEY CROWN - THUMB | IN</h4>
+<h4>MARTIN DAVALOS – BANGED UP | IN</h4>
+<h4>AUSTIN FORKNER – KNEE | OUT</h4>
+<h4>HUNTER LAWRENCE – Collarbone | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>JORDON SMITH — WRIST | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>CHRIS ALLDREDGE – FEMURS, HIP, HUMERUS | OUT</h4>
+<h4>Blake Baggett – Illness | OUT</h4>
+<h4>JUSTIN HILL – SHOULDER | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH/EYE INJURIES | OUT</h4>
+<h4>COLE SEELY – SHOULDER | OUT</h4>
+<h4>KILLIAN AUBERSON – HEAD | out</h4>
+<h4>THOMAS COVINGTON – ILLNESS | Out</h4>
+<h4>JOEY CROWN - THUMB | OUT</h4>
+<h4>MARTIN DAVALOS – BANGED UP | OUT</h4>
+<h4>AUSTIN FORKNER – KNEE | OUT</h4>
+<h4>Hunter Lawrence – Unknown | Out</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>JORDON SMITH — WRIST | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>CHRIS ALLDREDGE – FEMURS, HIP, HUMERUS | OUT</h4>
+<h4>JUSTIN HILL – SHOULDER | OUT</h4>
+<h4>DYLAN MERRIAM – COLLARBONE, BACK, RIB, LUNG, AND GROIN |IN</h4>
+<h4>ZACH OSBORNE – SHOULDER | IN</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH/EYE INJURIES | OUT</h4>
+<h4>COLE SEELY – SHOULDER | OUT</h4>
+<h4>KILLIAN AUBERSON – HEAD | OUT</h4>
+<h4>SEAN CANTRELL – WRIST | IN</h4>
+<h4>THOMAS COVINGTON – ILLNESS | OUT</h4>
+<h4>Joey Crown - Thumb | Out</h4>
+<h4>MARTIN DAVALOS – BANGED UP | OUT</h4>
+<h4>MITCHELL FALK – COLLARBONE | IN</h4>
+<h4>AUSTIN FORKNER – KNEE | OUT</h4>
+<h4>GARRETT MARCHBANKS – BANGED UP | IN</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>CHASE SEXTON – FATIGUE | IN</h4>
+<h4>JORDON SMITH – WRIST | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JUSTIN HILL – SHOULDER | OUT</h4>
+<h4>DYLAN MERRIAM – COLLARBONE, BACK, RIB, LUNG, AND GROIN |OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH/Eye INJURIES | OUT</h4>
+<h4>COLE SEELY – SHOULDER | OUT</h4>
+<h4>DEAN WILSON – SHOULDER | IN</h4>
+<h4>KILLIAN AUBERSON – HEAD | out</h4>
+<h4>SEAN CANTRELL – WRIST | OUT</h4>
+<h4>THOMAS COVINGTON – ILLNESS | out</h4>
+<h4>JOEY CROWN – BACK | IN</h4>
+<h4>MITCHELL FALK – COLLARBONE | OUT</h4>
+<h4>AUSTIN FORKNER – KNEE | OUT</h4>
+<h4>GARRETT MARCHBANKS – BANGED UP | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>MICHAEL MOSIMAN—SHOULDER | IN</h4>
+<h4>Chase SEXton – Fatigue | IN</h4>
+<h4>JORDON SMITH – WRIST | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JUSTIN HILL – SHOULDER | OUT</h4>
+<h4>DYLAN MERRIAM – COLLARBONE, BACK, RIB, LUNG, AND GROIN |OUT</h4>
+<h4>WESTON PEICK – FACIAL/Eye INJURIES | OUT</h4>
+<h4>AARON PLESSINGER – HEEL | IN</h4>
+<h4>COLE SEELY – SHOULDER | OUT</h4>
+<h4>DEAN WILSON – SHOULDER | OUT</h4>
+<h4>KILLIAN AUBERSON – HEAD | OUT</h4>
+<h4>SEAN CANTRELL – WRIST | OUT</h4>
+<h4>THOMAS COVINGTON – ILLNESS | OUT</h4>
+<h4>JOEY CROWN – BACK | OUT</h4>
+<h4>MITCHELL FALK – COLLARBONE | OUT</h4>
+<h4>AUSTIN FORKNER – KNEE | OUT</h4>
+<h4>GARRETT MARCHBANKS – BANGED UP | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>JORDON SMITH – WRIST | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JUSTIN HILL – SHOULDER | OUT</h4>
+<h4>DYLAN MERRIAM – COLLARBONE, BACK, RIB, LUNG, AND GROIN |OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>AARON PLESSINGER – HEEL | OUT</h4>
+<h4>COLE SEELY – SHOULDER | OUT</h4>
+<h4>DEAN WILSON – SHOULDER | OUT</h4>
+<h4>KILLIAN AUBERSON – HEAD | OUT</h4>
+<h4>SEAN CANTRELL – WRIST | OUT</h4>
+<h4>THOMAS COVINGTON – ILLNESS | IN</h4>
+<h4>JOEY CROWN – BACK | OUT</h4>
+<h4>MITCHELL FALK – COLLARBONE | OUT</h4>
+<h4>AUSTIN FORKNER – KNEE | OUT</h4>
+<h4>GARRETT MARCHBANKS – BANGED UP | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>SHANE MCELRATH – SHAKEN UP | IN</h4>
+<h4>JORDON SMITH – WRIST | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>BENNY BLOSS – KNEE | IN</h4>
+<h4>JUSTIN HILL – SHOULDER | OUT</h4>
+<h4>DYLAN MERRIAM – COLLARBONE, BACK, RIB, LUNG, AND GROIN |OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>AARON PLESSINGER – HEEL | OUT</h4>
+<h4>Cole Seely – Shoulder | OUT</h4>
+<h4>DEAN WILSON – SHOULDER | OUT</h4>
+<h4>Killian Auberson – Head | Out</h4>
+<h4>SEAN CANTRELL – WRIST | OUT</h4>
+<h4>Thomas Covington – Illness | TBD</h4>
+<h4>MITCHELL FALK – COLLARBONE | OUT</h4>
+<h4>AUSTIN FORKNER – KNEE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>SHANE MCELRATH – SHAKEN UP | OUT</h4>
+<h4>MITCHELL OLDENBURG – LEG, BUTTOCK | IN</h4>
+<h4>JORDON SMITH – WRIST | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>BLAKE BAGGETT – WRIST | IN</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>AARON PLESSINGER – HEEL | OUT</h4>
+<h4>JOEY SAVATGY – SHOULDER, LEG | IN</h4>
+<h4>DEAN WILSON – SHOULDER | OUT</h4>
+<h4>SEAN CANTRELL – WRIST | OUT</h4>
+<h4>MITCHELL FALK – COLLARBONE | OUT</h4>
+<h4>AUSTIN FORKNER – KNEE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>MITCHELL OLDENBURG – LEG, BUTTOCK | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>AARON PLESSINGER – HEEL | OUT</h4>
+<h4>JOEY SAVATGY – SHOULDER, LEG | OUT</h4>
+<h4>DEAN WILSON – SHOULDER | OUT</h4>
+<h4>SEAN CANTRELL – WRIST | OUT</h4>
+<h4>MARTIN DAVALOS – RIBCAGE |IN</h4>
+<h4>MITCHELL FALK – COLLARBONE | OUT</h4>
+<h4>AUSTIN FORKNER – KNEE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>MITCHELL OLDENBURG – LEG, BUTTOCK | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON – ARM, RIBS, LIVER, LUNG, BACK | IN</h4>
+<h4>JUSTIN BARCIA – SHOULDER, WRISTS | IN</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>JOSH GRANT – RIBS, LEG | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>AARON PLESSINGER – HEEL | OUT</h4>
+<h4>JOEY SAVATGY – SHOULDER, LEG | OUT</h4>
+<h4>DEAN WILSON – SHOULDER | OUT</h4>
+<h4>SEAN CANTRELL – WRIST | OUT</h4>
+<h4>AUSTIN FORKNER – KNEE | OUT</h4>
+<h4>JACOB HAYES – HAND | IN</h4>
+<h4>HUNTER LAWRENCE – COLLARBONE | IN</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>SHANE MCELRATH – BACK | IN</h4>
+<h4>MITCHell OLDENBURG – LEG, BUTTOCK | OUT</h4>
+<h4>JORDON SMITH – WRIST | IN</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON – ARM, RIBS, LIVER, LUNG, BACK | OUT</h4>
+<h4>JUSTIN BARCIA – SHOULDER | OUT</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>AJ CATANZARO – VARIOUS | IN</h4>
+<h4>TYLER ENTICKNAP – BACK, SACRUM | OUT</h4>
+<h4>VINCE FRIESE – KNEE | OUT</h4>
+<h4>JOSH GRANT – RIBS, LEG | OUT</h4>
+<h4>COLE MARTINEZ – FEMUR | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>AARON PLESSINGER – HEEL | OUT</h4>
+<h4>CHAD REED – RIBS, SCAPULA, LUNG | OUT</h4>
+<h4>MALCOLM STEWART – FEMUR | OUT</h4>
+<h4>RONNIE STEWART – HEAD | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>DEAN WILSON – SHOULDER | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>JOEY CROWN — ANKLE | OUT</h4>
+<h4>WILSON FLEMING – FEMUR, CLAVICLE | OUT</h4>
+<h4>AUSTIN FORKNER – KNEE | OUT</h4>
+<h4>JACOB HAYES – HAND | OUT</h4>
+<h4>HUNTER LAWRENCE – COLLARBONE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>SHANE MCELRATH – BACK | OUT</h4>
+<h4>Jace Owen – BACK | OUT</h4>
+<h4>GAGE SCHEHR – LIVER, KIDNEY, LUNGS, BACK, RIBS, ARM | OUT</h4>
+<h4>LANE SHAW – FEMUR | OUT</h4>
+<h4>JORDON SMITH – WRIST | OUT</h4>
+<h4>MARSHAL WELTIN – SHOULDER | OUT</h4>
+<h4>BLAKE WHARTON – KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON – ARM, RIBS, LIVER, LUNG, BACK | OUT</h4>
+<h4>JUSTIN BARCIA – SHOULDER | OUT</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>JUSTIN BRAYTON – KNEE | IN</h4>
+<h4>AJ CATANZARO – VARIOUS | IN</h4>
+<h4>TYLER ENTICKNAP – BACK, SACRUM | OUT</h4>
+<h4>VINCE FRIESE – KNEE | OUT</h4>
+<h4>COLE MARTINEZ – FEMUR | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>AARON PLESSINGER – HEEL | OUT</h4>
+<h4>CHAD REED – RIBS, SCAPULA, LUNG | OUT</h4>
+<h4>MALCOLM STEWART – FEMUR | OUT</h4>
+<h4>RONNIE STEWART – HEAD | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>DEAN WILSON – SHOULDER | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>CHRISTIAN CRAIG — THUMB | IN</h4>
+<h4>JOEY CROWN — ANKLE | OUT</h4>
+<h4>WILSON FLEMING – FEMUR, CLAVICLE | OUT</h4>
+<h4>AUSTIN FORKNER – KNEE | IN</h4>
+<h4>HUNTER LAWRENCE – COLLARBONE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>SHANE MCELRATH – BACK | OUT</h4>
+<h4>JACE OWEN – BACK | IN</h4>
+<h4>JESS PETTIS — COLLARBONE, LUNG, HEAD | OUT</h4>
+<h4>GAGE SCHEHR – LIVER, KIDNEY, LUNGS, BACK, RIBS, ARM | OUT</h4>
+<h4>LANE SHAW – FEMUR | OUT</h4>
+<h4>JORDON SMITH – WRIST | OUT</h4>
+<h4>MARSHAL WELTIN – SHOULDER | OUT</h4>
+<h4>BLAKE WHARTON – KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON – ARM, RIBS, LIVER, LUNG, BACK | OUT</h4>
+<h4>JUSTIN BARCIA – SHOULDER | OUT</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>JUSTIN BRAYTON – KNEE | OUT</h4>
+<h4>AJ CATANZARO – RIBS, LUNG, SHOULDER | IN</h4>
+<h4>TYLER ENTICKNAP – BACK, SACRUM | OUT</h4>
+<h4>VINCE FRIESE – KNEE | OUT</h4>
+<h4>JUSTIN HILL — BACK | IN</h4>
+<h4>COLE MARTINEZ – FEMUR | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>AARON PLESSINGER – HEEL | OUT</h4>
+<h4>CHAD REED – RIBS, SCAPULA, LUNG | OUT</h4>
+<h4>JOEY SAVATGY – SHOULDER | IN</h4>
+<h4>MALCOLM STEWART – FEMUR | OUT</h4>
+<h4>RONNIE STEWART – HEAD | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>CHRISTIAN CRAIG — THUMB | OUT</h4>
+<h4>JOEY CROWN — ANKLE | OUT</h4>
+<h4>WILSON FLEMING – FEMUR, CLAVICLE | OUT</h4>
+<h4>AUSTIN FORKNER – KNEE | TBD</h4>
+<h4>HUNTER LAWRENCE – COLLARBONE | OUT</h4>
+<h4>ENZO LOPES – SHOULDER, WRIST | IN</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>SHANE MCELRATH – BACK | OUT</h4>
+<h4>JACE OWEN – BACK | OUT</h4>
+<h4>JESS PETTIS — COLLARBONE, LUNG, HEAD | OUT</h4>
+<h4>GAGE SCHEHR – LIVER, KIDNEY, LUNGS, BACK, RIBS, ARM | OUT</h4>
+<h4>JORDON SMITH – WRIST | OUT</h4>
+<h4>MARSHAL WELTIN – SHOULDER | OUT</h4>
+<h4>BLAKE WHARTON – KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON – ARM, RIBS, LIVER, LUNG, BACK | OUT</h4>
+<h4>JUSTIN BARCIA – SHOULDER | IN</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>JUSTIN BRAYTON – KNEE | OUT</h4>
+<h4>AJ CATANZARO – RIBS, LUNG, SHOULDER | OUT</h4>
+<h4>VINCE FRIESE – KNEE | OUT</h4>
+<h4>JOSH GRANT – NECK | IN</h4>
+<h4>COLE MARTINEZ – FEMUR | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>AARON PLESSINGER – HEEL | OUT</h4>
+<h4>CHAD REED – RIBS, SCAPULA, LUNG | OUT</h4>
+<h4>MALCOLM STEWART – FEMUR | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>CHRISTIAN CRAIG — THUMB | OUT</h4>
+<h4>JOEY CROWN — ANKLE | OUT</h4>
+<h4>WILSON FLEMING – FEMUR, CLAVICLE | OUT</h4>
+<h4>HUNTER LAWRENCE – COLLARBONE | OUT</h4>
+<h4>ENZO LOPES – SHOULDER, WRIST | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>SHANE MCELRATH – BACK | OUT</h4>
+<h4>JACE OWEN – BACK | OUT</h4>
+<h4>JESS PETTIS — COLLARBONE, LUNG, HEAD | OUT</h4>
+<h4>GAGE SCHEHR – LIVER, KIDNEY, LUNGS, BACK, RIBS, ARM | OUT</h4>
+<h4>JORDON SMITH – WRIST | OUT</h4>
+<h4>MARSHAL WELTIN – SHOULDER | OUT</h4>
+<h4>BLAKE WHARTON – KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON – ARM, RIBS, LIVER, LUNG, BACK | OUT</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>JUSTIN BRAYTON – KNEE | OUT</h4>
+<h4>KYLE CHISHOLM – KNEE | IN</h4>
+<h4>VINCE FRIESE – KNEE | OUT</h4>
+<h4>COLE MARTINEZ – FEMUR | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>AARON PLESSINGER – HEEL | OUT</h4>
+<h4>CHAD REED – RIBS, SCAPULA, LUNG | OUT</h4>
+<h4>DEVEN RAPER – PELVIS, BACK, NOSE | IN</h4>
+<h4>MALCOLM STEWART – FEMUR | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>SEAN CANTRELL – WRIST | IN</h4>
+<h4>CHRISTIAN CRAIG — THUMB | OUT</h4>
+<h4>JOEY CROWN — ANKLE | OUT</h4>
+<h4>WILSON FLEMING – FEMUR, CLAVICLE | OUT</h4>
+<h4>JACOB HAYES – HAND | IN</h4>
+<h4>HUNTER LAWRENCE – COLLARBONE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>SHANE MCELRATH – BACK | OUT</h4>
+<h4>DYLAN MERRIAM – ANKLE | IN</h4>
+<h4>COLT NICHOLS – LEG | IN</h4>
+<h4>JACE OWEN – BACK | OUT</h4>
+<h4>JESS PETTIS — COLLARBONE, LUNG, HEAD | OUT</h4>
+<h4>GAGE SCHEHR – LIVER, KIDNEY, LUNGS, BACK, RIBS, ARM | OUT</h4>
+<h4>JORDON SMITH – WRIST | OUT</h4>
+<h4>MARSHAL WELTIN – SHOULDER | OUT</h4>
+<h4>BLAKE WHARTON – KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON – ARM, RIBS, LIVER, LUNG, BACK | OUT</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>VINCE FRIESE – KNEE | OUT</h4>
+<h4>COLE MARTINEZ – FEMUR | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>AARON PLESSINGER – HEEL | OUT</h4>
+<h4>DEVEN RAPER – PELVIS, BACK, NOSE| OUT</h4>
+<h4>MALCOLM STEWART – FEMUR | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>SEAN CANTRELL – WRIST | OUT</h4>
+<h4>CHRISTIAN CRAIG — THUMB | OUT</h4>
+<h4>JOEY CROWN — ANKLE | OUT</h4>
+<h4>WILSON FLEMING – FEMUR, CLAVICLE | OUT</h4>
+<h4>HUNTER LAWRENCE – COLLARBONE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>JACE OWEN – BACK | OUT</h4>
+<h4>Jess Pettis — Collarbone, Lung, Head | out</h4>
+<h4>JORDON SMITH – WRIST | OUT</h4>
+<h4>MARSHAL WELTIN – SHOULDER | OUT</h4>
+<h4>BLAKE WHARTON – KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON – ARM, RIBS, LIVER, LUNG, BACK | OUT</h4>
+<h4>JUSTIN BARCIA – HEAD | IN</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>VINCE FRIESE – KNEE | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>AARON PLESSINGER – HEEL | OUT</h4>
+<h4>DEVEN RAPER – PELVIS, BACK, NOSE| OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>CEDRIC SOUBEYRAS – BANGED UP | IN</h4>
+<h4>MALCOLM STEWART – FEMUR | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>SEAN CANTRELL – WRIST | OUT</h4>
+<h4>JOSH CARTWRIGHT – BANGED UP | TBD</h4>
+<h4>CHRISTIAN CRAIG — THUMB | OUT</h4>
+<h4>JOEY CROWN — ANKLE | OUT</h4>
+<h4>MITCHELL FALK – BANGED UP | IN</h4>
+<h4>WILSON FLEMING – FEMUR, CLAVICLE | OUT</h4>
+<h4>HUNTER LAWRENCE – COLLARBONE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>JACE OWEN – BACK | OUT</h4>
+<h4>JORDON SMITH – WRIST | OUT</h4>
+<h4>BLAKE WHARTON – KNEE | OUT</h4>
+<h4>Marshal Weltin – Shoulder | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON – ARM, RIBS, LIVER, LUNG, BACK | OUT</h4>
+<h4>JUSTIN BARCIA – HEAD | OUT</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>VINCE FRIESE – KNEE | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>DEVEN RAPER – PELVIS, BACK, NOSE| OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>MALCOLM STEWART – FEMUR | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>SEAN CANTRELL – WRIST | OUT</h4>
+<h4>THOMAS COVINGTON – KNEE | IN</h4>
+<h4>CHRISTIAN CRAIG — THUMB | OUT</h4>
+<h4>JOEY CROWN — ANKLE | OUT</h4>
+<h4>MITCHELL FALK – BANGED UP | OUT</h4>
+<h4>Wilson Fleming – Femur, Clavicle | OUT</h4>
+<h4>HUNTER LAWRENCE – COLLARBONE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>Mitchell Oldenburg – BANGED UP | IN</h4>
+<h4>JORDON SMITH – WRIST | OUT</h4>
+<h4>BLAKE WHARTON – KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON – ARM, RIBS, LIVER, LUNG, BACK | OUT</h4>
+<h4>JUSTIN BARCIA – HEAD | OUT</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>VINCE FRIESE – KNEE | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>DEVEN RAPER – PELVIS, BACK, NOSE| OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>COLE SEELY – STERNUM | IN</h4>
+<h4>MALCOLM STEWART – FEMUR | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>THOMAS COVINGTON – KNEE | OUT</h4>
+<h4>CHRISTIAN CRAIG — THUMB | OUT</h4>
+<h4>HUNTER LAWRENCE – COLLARBONE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON – ARM, RIBS, LIVER, LUNG, BACK | OUT</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>VINCE FRIESE – KNEE | TBD</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>DEVEN RAPER – PELVIS, BACK, NOSE| OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>MALCOLM STEWART – FEMUR | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>CHRISTIAN CRAIG — THUMB | OUT</h4>
+<h4>HUNTER LAWRENCE – COLLARBONE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON – ARM, RIBS, LIVER, LUNG, BACK | OUT</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>ZACH OSBORNE – COLLARBONE | IN</h4>
+<h4>JUSTIN HILL – TORSO/RIBS | IN</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>DEVEN RAPER – PELVIS, BACK, NOSE| OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>MALCOLM STEWART – FEMUR | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>CHRISTIAN CRAIG — THUMB | OUT</h4>
+<h4>HUNTER LAWRENCE – COLLARBONE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>VANN MARTIN – BACK, RIBS | IN</h4>
+<h4>DYLAN MERRIAM – BACK | OUT</h4>
+<h4>SAM REDMAN – SCRAPES | IN</h4>
+<h4>LANE SHAW – GENERAL | IN</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON – ARM, RIBS, LIVER, LUNG, BACK | OUT</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>JUSTIN BRAYTON – THUMB | IN</h4>
+<h4>JUSTIN HILL – TORSO/RIBS | OUT</h4>
+<h4>ZACH OSBORNE – COLLARBONE | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>DEVEN RAPER – PELVIS, BACK, NOSE| OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>MALCOLM STEWART – FEMUR | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>CHRISTIAN CRAIG — THUMB | IN</h4>
+<h4>HUNTER LAWRENCE – COLLARBONE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>DYLAN MERRIAM – BACK | OUT</h4>
+<h4>CHASE SEXTON – COLLARBONE | IN</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON – ARM, RIB | OUT</h4>
+<h4>JUSTIN BARCIA – TAILBONE | IN</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>KYLE CHISHOLM – WRIST | IN</h4>
+<h4>BEN LAMAY – LEG | IN</h4>
+<h4>ZACH OSBORNE – COLLARBONE | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>DEVEN RAPER – PELVIS, BACK, NOSE| OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>MALCOLM STEWART – FEMUR | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>CHRISTIAN CRAIG — THUMB | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>DYLAN MERRIAM – BACK | OUT</h4>
+<h4>CHASE SEXTON – COLLARBONE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON – ARM, RIB | OUT</h4>
+<h4>JUSTIN BARCIA – TAILBONE | IN</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>MATT BISCEGLIA – HEAD | IN</h4>
+<h4>ZACH OSBORNE – COLLARBONE | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>DEVEN RAPER – PELVIS, BACK, NOSE| OUT</h4>
+<h4>MALCOLM STEWART – FEMUR | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>CHRISTIAN CRAIG — THUMB | OUT</h4>
+<h4>GARRETT MARCHBANKS - BANGED UP | IN</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>DYLAN MERRIAM – BACK | OUT</h4>
+<h4>CHASE SEXTON – COLLARBONE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>MATT BISCEGLIA – HEAD | OUT</h4>
+<h4>ZACH OSBORNE – COLLARBONE | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>DEVEN RAPER – PELVIS, BACK, NOSE| OUT</h4>
+<h4>JOEY SAVATGY – HEAD | IN</h4>
+<h4>MALCOLM STEWART – FEMUR | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>CHRISTIAN CRAIG — THUMB | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>CHASE SEXTON – COLLARBONE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>ZACH OSBORNE – COLLARBONE | OUT</h4>
+<h4>DEVEN RAPER – PELVIS, BACK, NOSE| OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>CHRISTIAN CRAIG — THUMB | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>CHASE SEXTON – COLLARBONE | OUT</h4>
+<h4>JUSTIN STARLING – ABDOMEN | TBD</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>BENNY BLOSS – KNEE | OUT</h4>
+<h4>WESTON PEICK – FACIAL/MOUTH INJURIES | OUT</h4>
+<h4>MARVIN MUSQUIN – KNEE | IN</h4>
+<h4>ZACH OSBORNE – COLLARBONE | OUT</h4>
+<h4>DEVEN RAPER – PELVIS, BACK, NOSE| OUT</h4>
+<h4>MALCOLM STEWART – BANGED UP | IN</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>JON AMES – FOREARM | OUT</h4>
+<h4>CHRISTIAN CRAIG — THUMB | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>CHASE SEXTON – COLLARBONE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JUSTIN BOGLE — ARM | OUT</h4>
+<h4>KYLE CHISHOLM — KNEE | OUT</h4>
+<h4>CHRISTIAN CRAIG — KNEE | OUT</h4>
+<h4>ADAM ENTICKNAP — FEMUR | OUT</h4>
+<h4>JOSH GRANT — LEG | TBD</h4>
+<h4>JUSTIN HILL — KNEE | IN</h4>
+<h4>JOSH MOSIMAN — SHOULDER | OUT</h4>
+<h4>FREDRICK NOREN — HAND, KNEE | OUT</h4>
+<h4>WESTON PEICK — HAND | OUT</h4>
+<h4>KAILUB RUSSELL — BANGED UP | OUT</h4>
+<h4>COLE SEELY — PELVIS, SACRUM | OUT</h4>
+<h4>TEVIN TAPIA — PELVIS, BACK | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>DEAN WILSON — KNEE | OUT</h4>
+<h4>MATT BISCEGLIA — ANKLE, LEG | OUT</h4>
+<h4>ADAM CIANCIARULO — KNEE | OUT</h4>
+<h4>MARTIN DAVALOS — BACK, KNEE | OUT</h4>
+<h4>BRANDON HARTRANFT — SHOULDER | OUT</h4>
+<h4>GARRETT MARCHBANKS — ANKLE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>MITCH OLDENBURG — KNEE | OUT</h4>
+<h4>ZACH OSBORNE — SHOULDER | OUT</h4>
+<h4>KYLE PETERS — KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON — FOOT | IN</h4>
+<h4>JUSTIN BOGLE — ARM | OUT</h4>
+<h4>KYLE CHISHOLM — KNEE | OUT</h4>
+<h4>CHRISTIAN CRAIG — KNEE | OUT</h4>
+<h4>ADAM ENTICKNAP — FEMUR | OUT</h4>
+<h4>JOSH GRANT — LEG | OUT</h4>
+<h4>JUSTIN HILL — KNEE | OUT</h4>
+<h4>JOSH MOSIMAN — SHOULDER | OUT</h4>
+<h4>FREDRICK NOREN — HAND, KNEE | OUT</h4>
+<h4>Kailub Russell — Banged Up | OUT</h4>
+<h4>COLE SEELY — PELVIS, SACRUM | OUT</h4>
+<h4>TEVIN TAPIA — PELVIS, BACK | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>DEAN WILSON — KNEE | OUT</h4>
+<h4>MATT BISCEGLIA — ANKLE, LEG | OUT</h4>
+<h4>ADAM CIANCIARULO — KNEE | OUT</h4>
+<h4>MARTIN DAVALOS — BACK, KNEE | OUT</h4>
+<h4>JIMMY DECOTIS — ILLNESS | IN</h4>
+<h4>BRANDON HARTRANFT — SHOULDER | OUT</h4>
+<h4>GARRETT MARCHBANKS — ANKLE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>MITCH OLDENBURG — KNEE | OUT</h4>
+<h4>ZACH OSBORNE — SHOULDER | OUT</h4>
+<h4>KYLE PETERS — KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON — FOOT | OUT</h4>
+<h4>Justin Bogle — Arm | OUT</h4>
+<h4>KYLE CHISHOLM — KNEE | OUT</h4>
+<h4>CHRISTIAN CRAIG — KNEE | OUT</h4>
+<h4>ADAM ENTICKNAP — FEMUR | OUT</h4>
+<h4>Justin Hill — Knee | IN</h4>
+<h4>HENRY MILLER — HIP, BACK | IN</h4>
+<h4>JOSH MOSIMAN — SHOULDER | OUT</h4>
+<h4>FREDRICK NOREN — HAND, KNEE | OUT</h4>
+<h4>COLE SEELY — PELVIS, SACRUM | OUT</h4>
+<h4>TEVIN TAPIA — PELVIS, BACK | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>DEAN WILSON — KNEE | OUT</h4>
+<h4>MATT BISCEGLIA — ANKLE, LEG | OUT</h4>
+<h4>ADAM CIANCIARULO — KNEE | OUT</h4>
+<h4>MARTIN DAVALOS — BACK, KNEE | OUT</h4>
+<h4>Jimmy Decotis — Illness | Out</h4>
+<h4>BRANDON HARTRANFT — SHOULDER | OUT</h4>
+<h4>GARRETT MARCHBANKS — ANKLE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>MITCH OLDENBURG — KNEE | OUT</h4>
+<h4>ZACH OSBORNE — SHOULDER | OUT</h4>
+<h4>KYLE PETERS — KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON — FOOT | OUT</h4>
+<h4>KYLE CHISHOLM — KNEE | OUT</h4>
+<h4>CHRISTIAN CRAIG — KNEE | OUT</h4>
+<h4>ADAM ENTICKNAP — COLLARBONE | IN</h4>
+<h4>JOSH GRANT — LEG | IN</h4>
+<h4>JOSH MOSIMAN — SHOULDER | OUT</h4>
+<h4>FREDRICK NOREN — HAND, KNEE | OUT</h4>
+<h4>COLE SEELY — PELVIS, SACRUM | OUT</h4>
+<h4>TEVIN TAPIA — PELVIS, BACK | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>DEAN WILSON — KNEE | OUT</h4>
+<h4>MATT BISCEGLIA — ANKLE, LEG | OUT</h4>
+<h4>ADAM CIANCIARULO — KNEE | OUT</h4>
+<h4>MARTIN DAVALOS — BACK, KNEE | OUT</h4>
+<h4>BRANDON HARTRANFT — SHOULDER | OUT</h4>
+<h4>GARRETT MARCHBANKS — ANKLE | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>MITCH OLDENBURG — KNEE | OUT</h4>
+<h4>ZACH OSBORNE — SHOULDER | OUT</h4>
+<h4>KYLE PETERS — KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON — FOOT | OUT</h4>
+<h4>KYLE CHISHOLM — KNEE | OUT</h4>
+<h4>CHRISTIAN CRAIG — KNEE | OUT</h4>
+<h4>ADAM ENTICKNAP — COLLARBONE | OUT</h4>
+<h4>JOSH GRANT — LEG | OUT</h4>
+<h4>JOSH MOSIMAN — SHOULDER | OUT</h4>
+<h4>FREDRICK NOREN — HAND, KNEE | OUT</h4>
+<h4>COLE SEELY — PELVIS, SACRUM | OUT</h4>
+<h4>TEVIN TAPIA — PELVIS, BACK | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>DEAN WILSON — KNEE | OUT</h4>
+<h4>MATT BISCEGLIA — ANKLE, LEG | OUT</h4>
+<h4>ADAM CIANCIARULO — KNEE | OUT</h4>
+<h4>MARTIN DAVALOS — BACK, KNEE | OUT</h4>
+<h4>RJ HAMPSHIRE — BACK, CHIN, KNEE | IN</h4>
+<h4>BRANDON HARTRANFT — SHOULDER | OUT</h4>
+<h4>ENZO LOPES — COLLARBONE | IN</h4>
+<h4>GARRETT MARCHBANKS — UNKNOWN | OUT</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>MITCH OLDENBURG — KNEE | OUT</h4>
+<h4>ZACH OSBORNE — SHOULDER | OUT</h4>
+<h4>KYLE PETERS — KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON — FOOT | OUT</h4>
+<h4>KYLE CHISHOLM — KNEE | OUT</h4>
+<h4>CHRISTIAN CRAIG — KNEE | OUT</h4>
+<h4>ADAM ENTICKNAP — COLLARBONE | OUT</h4>
+<h4>JOSH GRANT — LEG | OUT</h4>
+<h4>JUSTIN HILL — ARM | TBD</h4>
+<h4>JOSH MOSIMAN — SHOULDER | OUT</h4>
+<h4>FREDRICK NOREN — HAND, KNEE | OUT</h4>
+<h4>COLE SEELY — PELVIS, SACRUM | OUT</h4>
+<h4>TEVIN TAPIA — PELVIS, BACK | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>DEAN WILSON — KNEE | OUT</h4>
+<h4>MATT BISCEGLIA — ANKLE, LEG | OUT</h4>
+<h4>ADAM CIANCIARULO — KNEE | OUT</h4>
+<h4>MARTIN DAVALOS — BACK, KNEE | OUT</h4>
+<h4>BRANDON HARTRANFT — SHOULDER | OUT</h4>
+<h4>ENZO LOPES — COLLARBONE | OUT</h4>
+<h4>GARRETT MARCHBANKS — KNEE | IN</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>MITCH OLDENBURG — KNEE | OUT</h4>
+<h4>ZACH OSBORNE — SHOULDER | OUT</h4>
+<h4>KYLE PETERS — KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON — FOOT | OUT</h4>
+<h4>JUSTIN BOGLE — HUMERUS, BACK | IN</h4>
+<h4>KYLE CHISHOLM — KNEE | OUT</h4>
+<h4>CHRISTIAN CRAIG — KNEE | OUT</h4>
+<h4>ADAM ENTICKNAP — COLLARBONE | OUT</h4>
+<h4>JOSH GRANT — LEG | OUT</h4>
+<h4>JOSH MOSIMAN — SHOULDER | OUT</h4>
+<h4>FREDRICK NOREN — HAND, KNEE | OUT</h4>
+<h4>COLE SEELY — PELVIS, SACRUM | OUT</h4>
+<h4>TEVIN TAPIA — PELVIS, BACK | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>COOPER WEBB — LEG | IN</h4>
+<h4>DEAN WILSON — KNEE | OUT</h4>
+<h4>DAKOTA ALIX — IN</h4>
+<h4>MATT BISCEGLIA — ANKLE, LEG | OUT</h4>
+<h4>ADAM CIANCIARULO — KNEE | OUT</h4>
+<h4>MARTIN DAVALOS — BACK, KNEE | OUT</h4>
+<h4>RJ HAMPSHIRE — VARIOUS | TBD</h4>
+<h4>BRANDON HARTRANFT — Shoulder | OUT</h4>
+<h4>ENZO LOPES — COLLARBONE | OUT</h4>
+<h4>GARRETT MARCHBANKS — KNEE | TBD</h4>
+<h4>JEREMY MARTIN — BACK | OUT</h4>
+<h4>MITCH OLDENBURG — KNEE | OUT</h4>
+<h4>ZACH OSBORNE — SHOULDER | OUT</h4>
+<h4>KYLE PETERS — KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON — FOOT | OUT</h4>
+<h4>JUSTIN BOGLE — HUMERUS, BACK | OUT</h4>
+<h4>KYLE CHISHOLM — KNEE | OUT</h4>
+<h4>CHRISTIAN CRAIG — KNEE | OUT</h4>
+<h4>ADAM ENTICKNAP — COLLARBONE | OUT</h4>
+<h4>JOSH GRANT — LEG | OUT</h4>
+<h4>JOSH MOSIMAN — SHOULDER | OUT</h4>
+<h4>FREDRICK NOREN — HAND, KNEE | OUT</h4>
+<h4>WESTON PEICK — HAND | IN</h4>
+<h4>COLE SEELY — PELVIS, SACRUM | OUT</h4>
+<h4>TEVIN TAPIA — PELVIS, BACK | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>COOPER WEBB — LEG | OUT</h4>
+<h4>DEAN WILSON — KNEE | OUT</h4>
+<h4>DAKOTA ALIX — OUT</h4>
+<h4>ADAM CIANCIARULO — KNEE | OUT</h4>
+<h4>MARTIN DAVALOS — BACK, KNEE | OUT</h4>
+<h4>JIMMY DECOTIS — BACK, RIBS | IN</h4>
+<h4>ENZO LOPES – COLLARBONE | OUT</h4>
+<h4>GARRETT MARCHBANKS — KNEE | OUT</h4>
+<h4>HAYDEN MELLROSS — SCAPULA | IN</h4>
+<h4>COLT NICHOLS — ARM | IN</h4>
+<h4>MITCH OLDENBURG — KNEE | OUT</h4>
+<h4>ZACH OSBORNE — SHOULDER | OUT</h4>
+<h4>KYLE PETERS — KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JASON ANDERSON — FOOT | OUT</h4>
+<h4>JUSTIN BOGLE — HUMERUS, BACK | OUT</h4>
+<h4>KYLE CHISHOLM — HEAD | IN</h4>
+<h4>CHRISTIAN CRAIG — KNEE | OUT</h4>
+<h4>KYLE CUNNINGHAM — VARIOUS | IN</h4>
+<h4>ADAM ENTICKNAP — COLLARBONE | OUT</h4>
+<h4>JOSH GRANT — LEG | OUT</h4>
+<h4>JOSH MOSIMAN — SHOULDER | OUT</h4>
+<h4>FREDRICK NOREN — HAND, KNEE | OUT</h4>
+<h4>COLE SEELY — PELVIS, SACRUM | OUT</h4>
+<h4>TEVIN TAPIA — PELVIS, BACK | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>COOPER WEBB — LEG | OUT</h4>
+<h4>DEAN WILSON — KNEE | OUT</h4>
+<h4>DAKOTA ALIX — OUT</h4>
+<h4>ADAM CIANCIARULO — KNEE | OUT</h4>
+<h4>MARTIN DAVALOS — BACK, KNEE | OUT</h4>
+<h4>JIMMY DECOTIS — BACK, RIBS | OUT</h4>
+<h4>DYLAN FERRANDIS — ARM, TEETH | IN</h4>
+<h4>MITCHELL HARRISON — SHOULDER | IN</h4>
+<h4>CAMERON MCADOO — SHOULDER | IN</h4>
+<h4>HAYDEN MELLROSS — SCAPULA | TBD</h4>
+<h4>COLT NICHOLS — ARM | OUT</h4>
+<h4>MITCH OLDENBURG — KNEE | OUT</h4>
+<h4>ZACH OSBORNE — SHOULDER | OUT</h4>
+<h4>KYLE PETERS — KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>Jason Anderson — Foot | OUT</h4>
+<h4>JUSTIN BOGLE — HUMERUS, BACK | OUT</h4>
+<h4>CHRISTIAN CRAIG — KNEE | OUT</h4>
+<h4>KYLE CUNNINGHAM — VARIOUS | OUT</h4>
+<h4>ADAM ENTICKNAP — COLLARBONE | OUT</h4>
+<h4>JOSH GRANT — LEG | OUT</h4>
+<h4>JOSH MOSIMAN — SHOULDER | OUT</h4>
+<h4>FREDRICK NOREN — HAND, KNEE | OUT</h4>
+<h4>COLE SEELY — PELVIS, SACRUM | OUT</h4>
+<h4>TEVIN TAPIA — PELVIS, BACK | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>COOPER WEBB — LEG | OUT</h4>
+<h4>DEAN WILSON — KNEE | OUT</h4>
+<h4>Dakota Alix — Out</h4>
+<h4>ADAM CIANCIARULO — KNEE | OUT</h4>
+<h4>MARTIN DAVALOS — BACK, KNEE | OUT</h4>
+<h4>JIMMY DECOTIS — BACK, RIBS | OUT</h4>
+<h4>DYLAN FERRANDIS — ARM, TEETH | out</h4>
+<h4>MITCHELL HARRISON — SHOULDER | OUT</h4>
+<h4>CAMERON MCADOO — SHOULDER | OUT</h4>
+<h4>HAYDEN MELLROSS — SCAPULA | OUT</h4>
+<h4>COLT NICHOLS — ARM | OUT</h4>
+<h4>MITCH OLDENBURG — KNEE | OUT</h4>
+<h4>KYLE PETERS — KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
+<h4>JUSTIN BOGLE — HUMERUS, BACK | OUT</h4>
+<h4>ADAM ENTICKNAP — COLLARBONE | OUT</h4>
+<h4>JOSH GRANT — LEG | OUT</h4>
+<h4>FREDRICK NOREN — HAND, KNEE | OUT</h4>
+<h4>COLE SEELY — PELVIS, SACRUM | OUT</h4>
+<h4>TEVIN TAPIA — PELVIS, BACK | OUT</h4>
+<h4>DAKOTA TEDDER — WRIST | OUT</h4>
+<h4>COOPER WEBB — LEG | OUT</h4>
+<h4>DEAN WILSON — KNEE | OUT</h4>
+<h4>ADAM CIANCIARULO — KNEE | OUT</h4>
+<h4>MARTIN DAVALOS — BACK, KNEE | OUT</h4>
+<h4>JIMMY DECOTIS — BACK, RIBS | OUT</h4>
+<h4>DYLAN FERRANDIS — ARM, TEETH | OUT</h4>
+<h4>AUSTIN FORKNER — Ribs | IN</h4>
+<h4>MITCHELL HARRISON — SHOULDER | OUT</h4>
+<h4>CAMERON MCADOO — SHOULDER | OUT</h4>
+<h4>HAYDEN MELLROSS — SCAPULA | OUT</h4>
+<h4>COLT NICHOLS — ARM | OUT</h4>
+<h4>MITCH OLDENBURG — KNEE | OUT</h4>
+<h4>KYLE PETERS — KNEE | OUT</h4>
+<h4>Motocross &amp; Supercross News - Racer X Online</h4>
