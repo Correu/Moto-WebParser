@@ -5,10 +5,10 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-class fileReader:
+class webReader:
 
-    #replacing beautiful soup with selenium
-    def seleReader(mainPage):
+    #selenium main page reader
+    def mainPageReader(mainPage):
         try:
             driver = webdriver.Chrome("WebDrivers/chromedriver")
             driver.get(mainPage)

@@ -3,7 +3,7 @@
 '''
 
 import matplotlib.pyplot as pty
-from fileReader import fileReader as fr
+from WebReader import webReader as wr
 
 URL = 'https://racerxonline.com/category/injury-report'
-fr.seleReader(URL)
+wr.mainPageReader(URL)
