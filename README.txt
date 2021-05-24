@@ -9,7 +9,6 @@ https://www.swapmotolive.com/page/2/?s=injury
 
 - Documentation - 
 requests - https://pypi.org/project/requests/
-BeautifulSoup4 - https://www.crummy.com/software/BeautifulSoup/bs4/doc/#searching-the-tree
 Selenium - https://www.selenium.dev/documentation/en/
 WebDriver - 
 

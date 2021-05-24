@@ -9,11 +9,13 @@ class fileReader:
 
     #replacing beautiful soup with selenium
     def seleReader(mainPage):
-        driver = webdriver.Chrome("WebDrivers/chromedriver")
-        driver.get(mainPage)
-        print(f'{driver.current_url}')
-       # test = driver.find_element(with_tag_name())
-        testtitle = driver.title
-        #test = driver.find_element_by_id("ui_big")
-        print(f'{testtitle}')
-        driver.quit()
+        try:
+            driver = webdriver.Chrome("WebDrivers/chromedriver")
+            driver.get(mainPage)
+            print(f'{driver.current_url}')
+            testtitle = driver.title
+            print(f'{testtitle}')
+            test = driver.find_element_by_class_name("s_100")
+            print(f'{test}')
+        finally:
+            driver.quit()
