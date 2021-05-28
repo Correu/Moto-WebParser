@@ -18,18 +18,19 @@ class webReader:
             print(f'{testtitle}')
             #finding the links on each individual page
             links_List = []
-            findLinks = driver.find_elements(By.PARTIAL_LINK_TEXT, "injury_report")
+            driver.find_element(By.PARTIAL_LINK_TEXT, "Injury Report").click()
+            #adding links to the links_List collection
+            '''
             for link in range(len(findLinks)):
                 links_List.append(findLinks[link].text)
-            
-            test = driver.find_elements(By.TAG_NAME, "li")
-            testList = []
-            for i in range(len(test)):
-                testList.append(test[i].text)
-                print(testList[i])
+                print(links_List[link])
+            '''
+            #Writing th elist to the file link_list.txt
+            '''
             listFile = "link_list.txt"
             with open(listFile, "w") as file_object:
                 for i in range(len(links_List)):
                     file_object.write(links_List[i])
+            '''
         finally:
             driver.quit()
