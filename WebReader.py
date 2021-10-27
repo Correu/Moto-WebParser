@@ -14,8 +14,7 @@ class webReader:
             driver = webdriver.Chrome("WebDrivers/chromedriver")
             driver.get(mainPage)
             print(f'{driver.current_url}')
-            testtitle = driver.title
-            print(f'{testtitle}')
+            print(driver.title)
             #finding the links on each individual page
             links_List = []
             driver.find_element(By.PARTIAL_LINK_TEXT, "Injury Report").click()
@@ -34,3 +33,4 @@ class webReader:
             '''
         finally:
             driver.quit()
+        
