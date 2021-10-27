@@ -19,11 +19,11 @@ class webReader:
             links_List = []
             driver.find_element(By.PARTIAL_LINK_TEXT, "Injury Report").click()
             #adding links to the links_List collection
-            
+            '''
             for link in range(len(findLinks)):
                 links_List.append(findLinks[link].text)
                 print(links_List[link])
-            
+            '''
             #Writing th elist to the file link_list.txt
             
             listFile = "link_list.txt"
