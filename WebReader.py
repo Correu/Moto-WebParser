@@ -17,19 +17,20 @@ class webReader:
             print(driver.title)
             #finding the links on each individual page
             links_List = []
-            driver.find_element(By.PARTIAL_LINK_TEXT, "Injury Report").click()
+            findLinks = driver.find_elements(By.PARTIAL_LINK_TEXT, "Injury Report")
+            links = driver.find_elements(By.CSS_SELECTOR, ".ui_link.big_link")
+            #find the next attribute/link to navigate to the next page and do the loop and append to the list again
+
             #adding links to the links_List collection
-            '''
-            for link in range(len(findLinks)):
-                links_List.append(findLinks[link].text)
-                print(links_List[link])
-            '''
-            #Writing th elist to the file link_list.txt
-            
+            for link in links:
+                print(link.get_attribute("href"))
+                links_List.append(link.get_attribute("href"))
+
+            #Writing the list to the file link_list.txt
             listFile = "link_list.txt"
             with open(listFile, "w") as file_object:
                 for i in range(len(links_List)):
-                    file_object.write(links_List[i])
+                    file_object.write(links_List[i] + "\n")
             
         finally:
             driver.quit()
