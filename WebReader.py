@@ -5,13 +5,16 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+from selenium.webdriver.firefox.options import Options
 
 class webReader:
 
     #selenium main page reader
     def mainPageReader(mainPage):
+        options = Options()
+        #options.binary_location = "/usr/bin/firefox"
+        driver = webdriver.Firefox(options=options)
         try:
-            driver = webdriver.Chrome("WebDrivers/chromedriver")
             driver.get(mainPage)
             print(f'{driver.current_url}')
             print(driver.title)
