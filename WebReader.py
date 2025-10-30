@@ -5,15 +5,28 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-from selenium.webdriver.firefox.options import Options
+#from selenium.webdriver.firefox.options import Options as FirefoxOptions
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
 
 class webReader:
 
     #selenium main page reader
     def mainPageReader(mainPage):
+
+        # Set Chrome options
         options = Options()
-        #options.binary_location = "/usr/bin/firefox"
-        driver = webdriver.Firefox(options=options)
+        options.add_argument("--start-maximized")  # Open in full screen
+        # options.add_argument("--headless")       # Uncomment to run without opening a window
+
+        # Initialize the Chrome WebDriver
+        service = Service("/home/tylers-pc/Desktop/WebApps/Moto-WebParser/WebDrivers/chromedriver-linux64/chromedriver")  # Path to chromedriver
+        driver = webdriver.Chrome(service=service, options=options)
+
+        #driverService = Service('WebDrivers/geckodriver') 
+        #options = FirefoxOptions()
+        #options.binary_location = r"/usr/bin/firefox"
+        #driver = webdriver.Firefox(options=options)
         try:
             driver.get(mainPage)
             print(f'{driver.current_url}')

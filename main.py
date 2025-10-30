@@ -1,6 +1,7 @@
 '''
     main python file containing all the user interface aspects of the program
 '''
+from selenium import webdriver
 
 #import matplotlib.pyplot as pty
 from WebReader import webReader as wr

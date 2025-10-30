@@ -12,7 +12,14 @@ requests - https://pypi.org/project/requests/
 Selenium - https://www.selenium.dev/documentation/en/
 WebDriver - 
 
-working towards changing from BeautifulSoup to selenium for ease of use and increase of functionality. for webdrivers i did all the testing with chrome
+Selenium webscraper to parse motocross web pages and determine the prevelance of certain injuries at certain motocross tracks.
+
+Running the scripts
+
+set a venv with the following commands
+
+1. python3 -m venv <venv-name>
+2. source <venv-name>/bin/activate
 
 
 

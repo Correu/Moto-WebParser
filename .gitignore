@@ -1,1 +1,3 @@
-venv/
+web_parser/
+WebDrivers/
+__pycache__/
