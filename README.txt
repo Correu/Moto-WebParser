@@ -4,13 +4,17 @@ to getting information about tracks and finding correlations to the tracks and t
 occur.
 
 - injury report websites -
-https://racerxonline.com/injury-report
+https://racerxonline.com/category/injury-report
 https://www.swapmotolive.com/page/2/?s=injury
 
 - Documentation - 
 requests - https://pypi.org/project/requests/
 Selenium - https://www.selenium.dev/documentation/en/
-WebDriver - 
+
+WebDrivers
+Chrome Drivers - https://developer.chrome.com/docs/chromedriver/downloads
+FireFox Drivers - https://geckodriver.com/
+
 
 Selenium webscraper to parse motocross web pages and determine the prevelance of certain injuries at certain motocross tracks.
 
