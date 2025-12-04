@@ -22,8 +22,6 @@ Running the scripts
 
 set a venv with the following commands
 
-1. python3 -m venv <venv-name>
-2. source <venv-name>/bin/activate
-
-
+1. python3 -m venv <venv-name> (only needs to be done once)
+2. source <venv-name>/bin/activate (done every time following to enter the environment)
 
