@@ -15,9 +15,125 @@ import time
 import re
 
 class webReader:
+    SOURCE_CONFIGS = {
+        "racerx": {
+            "sport": "motocross",
+            "discipline": "supercross/motocross",
+            "seed_url": "https://racerxonline.com/category/injury-report",
+            "include_keywords": ["injury report"],
+            "exclude_url_patterns": ["/category/injury-report/"],
+            "link_file": "link_list.txt",
+        },
+        "offroadxtreme": {
+            "sport": "off_road",
+            "discipline": "trophy_truck/desert",
+            "seed_url": "https://www.offroadxtreme.com/?s=crash",
+            "include_keywords": [
+                "crash", "roll", "rolled", "injury", "hospital", "wreck", "accident",
+                "baja", "score", "trophy truck"
+            ],
+            "exclude_url_patterns": ["/tag/", "/category/", "/author/", "/page/"],
+            "link_file": "link_list_offroad.txt",
+        },
+        "swapmoto": {
+            "sport": "motocross",
+            "discipline": "freestyle_motocross",
+            "seed_url": "https://www.swapmotolive.com/?s=injury",
+            "include_keywords": ["injury", "crash", "out", "hospital", "return"],
+            "exclude_url_patterns": ["/page/", "/author/", "/category/"],
+            "link_file": "link_list_swapmoto.txt",
+        },
+        "vitalbmx": {
+            "sport": "bmx",
+            "discipline": "park/street/dirt",
+            "seed_url": "https://www.vitalbmx.com/search?query=injury",
+            "include_keywords": ["injury", "crash", "hospital", "out", "accident", "slam"],
+            "exclude_url_patterns": ["/forum/", "/photos/", "/videos/", "/members/"],
+            "link_file": "link_list_vitalbmx.txt",
+        },
+    }
+    INCIDENT_KEYWORDS = [
+        "injury", "injured", "crash", "wreck", "roll", "rolled",
+        "hospital", "concussion", "fracture", "broken", "out for", "ruled out"
+    ]
+
+    @staticmethod
+    def get_source_config(source_id):
+        """Return source configuration with Racer X as safe default."""
+        return webReader.SOURCE_CONFIGS.get(source_id, webReader.SOURCE_CONFIGS["racerx"])
+
+    @staticmethod
+    def _is_candidate_link(link_text, href, keywords):
+        text = (link_text or "").lower()
+        url = (href or "").lower()
+        combined = f"{text} {url}"
+        return any(keyword in combined for keyword in keywords)
+
+    @staticmethod
+    def _build_track_header(track_name, url, sport, discipline, no_injuries=False):
+        base = f"<!-- SPORT: {sport} | DISCIPLINE: {discipline} | TRACK: {track_name} | URL: {url}"
+        if no_injuries:
+            return base + " | NO INJURIES -->"
+        return base + " -->"
+
+    @staticmethod
+    def _create_chrome_driver(options):
+        """
+        Create a Chrome WebDriver.
+        Tries Selenium Manager first (auto-matching local Chrome),
+        then falls back to the project-pinned chromedriver path.
+        """
+        try:
+            return webdriver.Chrome(options=options)
+        except Exception as first_error:
+            print(f"Selenium Manager driver init failed, trying local chromedriver: {first_error}")
+            service = Service("/home/tylers-pc/Desktop/WebApps/Moto-WebParser/WebDrivers/chromedriver-linux64/chromedriver")
+            return webdriver.Chrome(service=service, options=options)
+
+    @staticmethod
+    def _extract_generic_incidents(driver):
+        """
+        Extract incident lines for sites without structured injury tables.
+        Returns pipe-delimited rows consumed by DataOrganizer:
+        ###INCIDENT###|Athlete|Injury text
+        """
+        incidents = []
+        try:
+            page_title = (driver.title or "").strip()
+        except Exception:
+            page_title = ""
+
+        athlete = "Unknown Athlete"
+        if page_title:
+            # Simple heuristic: "Name ... crash" titles usually start with athlete name.
+            candidate = re.split(r'[-|:]', page_title)[0].strip()
+            if 1 <= len(candidate.split()) <= 4 and len(candidate) <= 50:
+                athlete = candidate
+
+        paragraphs = driver.find_elements(By.XPATH, "//article//p | //main//p | //p")
+        seen = set()
+        for p in paragraphs[:80]:
+            text = p.text.strip()
+            if len(text) < 30:
+                continue
+            lower_text = text.lower()
+            if not any(keyword in lower_text for keyword in webReader.INCIDENT_KEYWORDS):
+                continue
+            normalized = re.sub(r'\s+', ' ', text)
+            if normalized in seen:
+                continue
+            seen.add(normalized)
+            incidents.append(f"###INCIDENT###|{athlete}|{normalized}")
+            if len(incidents) >= 6:
+                break
+
+        return incidents
 
     #selenium main page reader
-    def mainPageReader(mainPage):
+    def mainPageReader(mainPage=None, source_id="racerx"):
+        source_cfg = webReader.get_source_config(source_id)
+        if not mainPage:
+            mainPage = source_cfg["seed_url"]
 
         # Set Chrome options
         options = Options()
@@ -25,8 +141,7 @@ class webReader:
         # options.add_argument("--headless")       # Uncomment to run without opening a window
 
         # Initialize the Chrome WebDriver
-        service = Service("/home/tylers-pc/Desktop/WebApps/Moto-WebParser/WebDrivers/chromedriver-linux64/chromedriver")  # Path to chromedriver
-        driver = webdriver.Chrome(service=service, options=options)
+        driver = webReader._create_chrome_driver(options)
 
         #driverService = Service('WebDrivers/geckodriver') 
         #options = FirefoxOptions()
@@ -49,19 +164,19 @@ class webReader:
                 time.sleep(2)  # Give the page time to fully render
                 
                 # Find links containing "Injury report" on current page
-                # Using XPath to find links containing "Injury report" text (case-insensitive)
-                xpath_query = "//a[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'injury report')]"
-                links = driver.find_elements(By.XPATH, xpath_query)
-                
-                # Alternative fallback: Find all links and filter by text content
-                if len(links) == 0:
-                    all_links = driver.find_elements(By.TAG_NAME, "a")
-                    for link in all_links:
-                        link_text = link.text.lower()
-                        if "injury report" in link_text:
-                            links.append(link)
-                
-                print(f"Found {len(links)} links containing 'Injury report' on page {page_num}")
+                # Source-driven link discovery for multi-sport crawling
+                links = []
+                all_links = driver.find_elements(By.TAG_NAME, "a")
+                include_keywords = source_cfg["include_keywords"]
+                for link in all_links:
+                    link_text = link.text
+                    href = link.get_attribute("href")
+                    if not href:
+                        continue
+                    if webReader._is_candidate_link(link_text, href, include_keywords):
+                        links.append(link)
+
+                print(f"Found {len(links)} candidate links on page {page_num}")
                 
                 # Add links from current page to the master list
                 base_url = driver.current_url
@@ -167,7 +282,7 @@ class webReader:
             print(f"Total pages processed: {page_num}")
             print(f"Total unique links found: {len(links_List)}")
             
-            listFile = "link_list.txt"
+            listFile = source_cfg["link_file"]
             with open(listFile, "w") as file_object:
                 for i in range(len(links_List)):
                     file_object.write(links_List[i] + "\n")
@@ -178,19 +293,22 @@ class webReader:
             driver.quit()
     
     # Method to scrape injury data from each URL in link_list.txt
-    def scrapeInjuryData(linkFile="link_list.txt", outputFile="injury_list.txt"):
+    def scrapeInjuryData(linkFile=None, outputFile="injury_list.txt", source_id="racerx"):
         """
         Reads URLs from link_list.txt, visits each page, and extracts rider injury information.
         Saves the extracted data to injury_list.txt.
         """
+        source_cfg = webReader.get_source_config(source_id)
+        if not linkFile:
+            linkFile = source_cfg["link_file"]
+
         # Set Chrome options
         options = Options()
         options.add_argument("--start-maximized")  # Open in full screen
         # options.add_argument("--headless")       # Uncomment to run without opening a window
 
         # Initialize the Chrome WebDriver
-        service = Service("/home/tylers-pc/Desktop/WebApps/Moto-WebParser/WebDrivers/chromedriver-linux64/chromedriver")
-        driver = webdriver.Chrome(service=service, options=options)
+        driver = webReader._create_chrome_driver(options)
         
         try:
             # Read URLs from link_list.txt
@@ -201,8 +319,12 @@ class webReader:
                 print(f"Error: {linkFile} not found!")
                 return
             
-            # Filter out category pages (these are pagination links, not actual injury report pages)
-            injury_urls = [url for url in urls if "/category/injury-report/" not in url]
+            # Filter out category/list pages (not actual incident report pages)
+            injury_urls = []
+            for url in urls:
+                if any(pattern in url for pattern in source_cfg["exclude_url_patterns"]):
+                    continue
+                injury_urls.append(url)
             
             print(f"Total URLs in file: {len(urls)}")
             print(f"Valid injury report URLs: {len(injury_urls)}")
@@ -307,71 +429,73 @@ class webReader:
                     track_name = track_name.strip() if track_name else "Unknown Track"
                     print(f"  Track: {track_name}")
                     
-                    # Find all heading elements (h1-h4) that contain rider injury information
-                    # These typically have links with class "show_card" inside them, or contain rider names
-                    # Try multiple XPath strategies to find injury entries
-                    injury_elements = []
-                    
-                    # Strategy 1: Find headings with show_card links (common pattern)
-                    injury_elements.extend(driver.find_elements(By.XPATH, "//h1[.//a[@class='show_card']]"))
-                    injury_elements.extend(driver.find_elements(By.XPATH, "//h2[.//a[@class='show_card']]"))
-                    injury_elements.extend(driver.find_elements(By.XPATH, "//h3[.//a[@class='show_card']]"))
-                    injury_elements.extend(driver.find_elements(By.XPATH, "//h4[.//a[@class='show_card']]"))
-                    
-                    # Strategy 2: Find headings that contain rider information patterns (injury keywords + status)
-                    # Look for headings that contain injury status indicators
-                    all_headings = driver.find_elements(By.XPATH, "//h1 | //h2 | //h3 | //h4")
-                    for heading in all_headings:
-                        try:
-                            text = heading.text.strip().lower()
-                            # Check if it looks like an injury entry (contains status and possible injury terms)
-                            if text and len(text) > 10:
-                                has_status = any(status in text for status in ["| out", "| in", "| tbd", "out", "in", "tbd"])
-                                has_rider_link = len(heading.find_elements(By.XPATH, ".//a")) > 0
-                                # If it has status and a link, or contains common injury-related patterns
-                                if has_status and (has_rider_link or any(word in text for word in ["shoulder", "knee", "arm", "wrist", "ankle", "back", "collarbone", "head", "hand", "hip", "ribs", "leg"])):
-                                    if heading not in injury_elements:
-                                        injury_elements.append(heading)
-                        except:
-                            continue
-                    
                     page_injuries = []
-                    seen_entries = set()  # Track seen entries to avoid duplicates
-                    
-                    for elem in injury_elements:
-                        try:
-                            # Get the HTML content of the element
-                            html_content = elem.get_attribute('outerHTML')
-                            if html_content:
-                                # Filter out non-injury entries (like "Motocross & Supercross News")
-                                text = elem.text.strip()
-                                # Check if this is a valid injury entry
+                    if source_id == "racerx":
+                        # Racer X structured injury table parsing
+                        injury_elements = []
+                        injury_elements.extend(driver.find_elements(By.XPATH, "//h1[.//a[@class='show_card']]"))
+                        injury_elements.extend(driver.find_elements(By.XPATH, "//h2[.//a[@class='show_card']]"))
+                        injury_elements.extend(driver.find_elements(By.XPATH, "//h3[.//a[@class='show_card']]"))
+                        injury_elements.extend(driver.find_elements(By.XPATH, "//h4[.//a[@class='show_card']]"))
+
+                        all_headings = driver.find_elements(By.XPATH, "//h1 | //h2 | //h3 | //h4")
+                        for heading in all_headings:
+                            try:
+                                text = heading.text.strip().lower()
                                 if text and len(text) > 10:
-                                    # Filter out common non-injury headings
+                                    has_status = any(status in text for status in ["| out", "| in", "| tbd", "out", "in", "tbd"])
+                                    has_rider_link = len(heading.find_elements(By.XPATH, ".//a")) > 0
+                                    if has_status and (has_rider_link or any(word in text for word in ["shoulder", "knee", "arm", "wrist", "ankle", "back", "collarbone", "head", "hand", "hip", "ribs", "leg"])):
+                                        if heading not in injury_elements:
+                                            injury_elements.append(heading)
+                            except Exception:
+                                continue
+
+                        seen_entries = set()
+                        for elem in injury_elements:
+                            try:
+                                html_content = elem.get_attribute('outerHTML')
+                                if not html_content:
+                                    continue
+                                text = elem.text.strip()
+                                if text and len(text) > 10:
                                     text_lower = text.lower()
                                     if ("motocross & supercross news" not in text_lower and
                                         "racer x online" not in text_lower and
                                         not text_lower.startswith("motocross") and
                                         ("out" in text_lower or "in" in text_lower or "tbd" in text_lower)):
-                                        
-                                        # Create a simple text-based hash to detect duplicates
                                         text_hash = hash(text)
                                         if text_hash not in seen_entries:
                                             seen_entries.add(text_hash)
                                             page_injuries.append(html_content)
-                        except Exception as e:
-                            continue
+                            except Exception:
+                                continue
+                    else:
+                        # Generic extraction for action-sport blogs without injury tables
+                        page_injuries = webReader._extract_generic_incidents(driver)
                     
                     if page_injuries:
                         print(f"  Found {len(page_injuries)} injury entries")
                         # Add track information header before this page's injuries
-                        track_header = f"<!-- TRACK: {track_name} | URL: {url} -->"
+                        track_header = webReader._build_track_header(
+                            track_name,
+                            url,
+                            source_cfg["sport"],
+                            source_cfg["discipline"],
+                            no_injuries=False
+                        )
                         all_injury_data.append(track_header)
                         all_injury_data.extend(page_injuries)
                     else:
                         print(f"  No injury data found on this page")
                         # Still record track even if no injuries found
-                        track_header = f"<!-- TRACK: {track_name} | URL: {url} | NO INJURIES -->"
+                        track_header = webReader._build_track_header(
+                            track_name,
+                            url,
+                            source_cfg["sport"],
+                            source_cfg["discipline"],
+                            no_injuries=True
+                        )
                         all_injury_data.append(track_header)
                         
                 except Exception as e:
@@ -391,4 +515,15 @@ class webReader:
             
         finally:
             driver.quit()
-        
+
+    @staticmethod
+    def scrapeAllConfiguredSources():
+        """
+        Convenience wrapper that crawls and scrapes all configured sources.
+        Output files are named injury_list_<source_id>.txt.
+        """
+        for source_id in webReader.SOURCE_CONFIGS:
+            print(f"\n=== Processing source: {source_id} ===")
+            webReader.mainPageReader(source_id=source_id)
+            output_file = f"injury_list_{source_id}.txt"
+            webReader.scrapeInjuryData(source_id=source_id, outputFile=output_file)

@@ -160,6 +160,8 @@ def parse_injury_list(input_file="injury_list.txt", output_file="injury_data.csv
     """
     parser = InjuryHTMLParser()
     injury_records = []
+    current_sport = "motocross"
+    current_discipline = "supercross/motocross"
     current_track = ""
     current_url = ""
     current_date = ""
@@ -172,10 +174,16 @@ def parse_injury_list(input_file="injury_list.txt", output_file="injury_data.csv
                 # Check for track information comment
                 if line.startswith("<!--") and "TRACK:" in line:
                     # Extract track name and URL from comment
-                    # Format: <!-- TRACK: Track Name | URL: https://... -->
+                    # Format: <!-- SPORT: motocross | DISCIPLINE: supercross | TRACK: Track Name | URL: https://... -->
+                    sport_match = re.search(r'SPORT:\s*([^|]+)', line)
+                    discipline_match = re.search(r'DISCIPLINE:\s*([^|]+)', line)
                     track_match = re.search(r'TRACK:\s*([^|]+)', line)
                     url_match = re.search(r'URL:\s*(https?://[^\s>]+)', line)
                     
+                    if sport_match:
+                        current_sport = sport_match.group(1).strip().lower()
+                    if discipline_match:
+                        current_discipline = discipline_match.group(1).strip()
                     if track_match:
                         current_track = track_match.group(1).strip()
                     if url_match:
@@ -193,11 +201,37 @@ def parse_injury_list(input_file="injury_list.txt", output_file="injury_data.csv
                     
                     if rider_data['rider']:  # Only add if we found a rider name
                         injury_records.append({
+                            'Sport': current_sport,
+                            'Discipline': current_discipline,
+                            'Athlete': rider_data['rider'],
                             'Rider': rider_data['rider'],
                             'Injury': rider_data['injury'],
+                            'Venue': current_track,
                             'Track': current_track,
                             'Date': current_date
                         })
+
+                # Generic action-sport incident format from scraper:
+                # ###INCIDENT###|Athlete|Injury text
+                elif line.startswith("###INCIDENT###|"):
+                    parts = line.split("|", 2)
+                    athlete = "Unknown Athlete"
+                    injury_text = ""
+                    if len(parts) >= 2 and parts[1].strip():
+                        athlete = parts[1].strip()
+                    if len(parts) == 3:
+                        injury_text = parts[2].strip()
+
+                    injury_records.append({
+                        'Sport': current_sport,
+                        'Discipline': current_discipline,
+                        'Athlete': athlete,
+                        'Rider': athlete,
+                        'Injury': injury_text,
+                        'Venue': current_track,
+                        'Track': current_track,
+                        'Date': current_date
+                    })
     
     except FileNotFoundError:
         print(f"Error: {input_file} not found!")
@@ -210,7 +244,7 @@ def parse_injury_list(input_file="injury_list.txt", output_file="injury_data.csv
     if injury_records:
         try:
             with open(output_file, "w", newline="", encoding="utf-8") as csvfile:
-                fieldnames = ['Rider', 'Injury', 'Track', 'Date']
+                fieldnames = ['Sport', 'Discipline', 'Athlete', 'Rider', 'Injury', 'Venue', 'Track', 'Date']
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                 
                 writer.writeheader()
@@ -229,6 +263,85 @@ def parse_injury_list(input_file="injury_list.txt", output_file="injury_data.csv
             print(f"Error writing CSV file: {e}")
     else:
         print("No injury records found to convert.")
+
+
+def parse_multiple_injury_lists(input_files, output_file="injury_data.csv"):
+    """Parse and merge multiple injury list text files into one CSV."""
+    parser = InjuryHTMLParser()
+    injury_records = []
+
+    for input_file in input_files:
+        current_sport = "motocross"
+        current_discipline = "supercross/motocross"
+        current_track = ""
+        current_url = ""
+        current_date = ""
+
+        try:
+            with open(input_file, "r", encoding="utf-8") as file:
+                for line in file:
+                    line = line.strip()
+
+                    if line.startswith("<!--") and "TRACK:" in line:
+                        sport_match = re.search(r'SPORT:\s*([^|]+)', line)
+                        discipline_match = re.search(r'DISCIPLINE:\s*([^|]+)', line)
+                        track_match = re.search(r'TRACK:\s*([^|]+)', line)
+                        url_match = re.search(r'URL:\s*(https?://[^\s>]+)', line)
+
+                        if sport_match:
+                            current_sport = sport_match.group(1).strip().lower()
+                        if discipline_match:
+                            current_discipline = discipline_match.group(1).strip()
+                        if track_match:
+                            current_track = track_match.group(1).strip()
+                        if url_match:
+                            current_url = url_match.group(1).strip()
+                            current_date = extract_date_from_url(current_url)
+
+                    elif line.startswith("<h") and ("show_card" in line or "show_rider_card" in line):
+                        if 'class="text-xl' in line or 'Injury Report' in line:
+                            continue
+                        rider_data = parser.parse_injury_entry(line)
+                        if rider_data['rider']:
+                            injury_records.append({
+                                'Sport': current_sport,
+                                'Discipline': current_discipline,
+                                'Athlete': rider_data['rider'],
+                                'Rider': rider_data['rider'],
+                                'Injury': rider_data['injury'],
+                                'Venue': current_track,
+                                'Track': current_track,
+                                'Date': current_date
+                            })
+                    elif line.startswith("###INCIDENT###|"):
+                        parts = line.split("|", 2)
+                        athlete = parts[1].strip() if len(parts) >= 2 and parts[1].strip() else "Unknown Athlete"
+                        injury_text = parts[2].strip() if len(parts) == 3 else ""
+                        injury_records.append({
+                            'Sport': current_sport,
+                            'Discipline': current_discipline,
+                            'Athlete': athlete,
+                            'Rider': athlete,
+                            'Injury': injury_text,
+                            'Venue': current_track,
+                            'Track': current_track,
+                            'Date': current_date
+                        })
+        except FileNotFoundError:
+            print(f"Warning: {input_file} not found, skipping.")
+
+    if not injury_records:
+        print("No injury records found to convert.")
+        return
+
+    with open(output_file, "w", newline="", encoding="utf-8") as csvfile:
+        fieldnames = ['Sport', 'Discipline', 'Athlete', 'Rider', 'Injury', 'Venue', 'Track', 'Date']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for record in injury_records:
+            writer.writerow(record)
+
+    print(f"Successfully converted {len(injury_records)} records to {output_file}")
 
 
 if __name__ == "__main__":

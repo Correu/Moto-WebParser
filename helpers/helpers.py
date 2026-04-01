@@ -51,11 +51,13 @@ def parse_injury_data_first_occurrence(input_file="injury_data.csv", output_file
             
             # Process each row
             for row in rows:
-                rider = row['Rider'].strip()
-                injury = row['Injury'].strip()
+                rider = (row.get('Rider') or row.get('Athlete') or "").strip()
+                injury = (row.get('Injury') or "").strip()
+                sport = (row.get('Sport') or "motocross").strip().lower()
+                venue = (row.get('Venue') or row.get('Track') or "").strip()
                 
                 # Create a unique key for rider+injury combination
-                key = (rider, injury)
+                key = (sport, rider, injury, venue)
                 
                 # If we haven't seen this combination before, add it
                 if key not in seen_combinations:
@@ -65,11 +67,24 @@ def parse_injury_data_first_occurrence(input_file="injury_data.csv", output_file
         # Write the filtered data to the output file
         if first_occurrences:
             with open(output_file, 'w', newline='', encoding='utf-8') as f:
-                fieldnames = ['Rider', 'Injury', 'Track', 'Date']
+                fieldnames = ['Sport', 'Discipline', 'Athlete', 'Rider', 'Injury', 'Venue', 'Track', 'Date']
                 writer = csv.DictWriter(f, fieldnames=fieldnames)
                 
                 writer.writeheader()
                 for row in first_occurrences:
+                    # Keep both old and new column names for backward compatibility
+                    if 'Athlete' not in row or not row.get('Athlete'):
+                        row['Athlete'] = row.get('Rider', '')
+                    if 'Rider' not in row or not row.get('Rider'):
+                        row['Rider'] = row.get('Athlete', '')
+                    if 'Venue' not in row or not row.get('Venue'):
+                        row['Venue'] = row.get('Track', '')
+                    if 'Track' not in row or not row.get('Track'):
+                        row['Track'] = row.get('Venue', '')
+                    if 'Sport' not in row or not row.get('Sport'):
+                        row['Sport'] = 'motocross'
+                    if 'Discipline' not in row:
+                        row['Discipline'] = ''
                     writer.writerow(row)
             
             print(f"Successfully processed {len(first_occurrences)} first occurrences from {len(rows)} total entries")

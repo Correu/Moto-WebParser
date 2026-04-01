@@ -5,13 +5,28 @@
 import pandas as pd
 import dash
 from dash import dcc, html, dash_table, Input, Output
-from datetime import datetime
 
 # Load the injury data
 def load_data():
     """Load and preprocess the injury data from CSV"""
     try:
         df = pd.read_csv('updated_data.csv')
+        # Backward-compatible defaults for older motocross-only files
+        if 'Sport' not in df.columns:
+            df['Sport'] = 'motocross'
+        if 'Discipline' not in df.columns:
+            df['Discipline'] = ''
+        if 'Venue' not in df.columns:
+            if 'Track' in df.columns:
+                df['Venue'] = df['Track']
+            else:
+                df['Venue'] = ''
+        if 'Athlete' not in df.columns:
+            if 'Rider' in df.columns:
+                df['Athlete'] = df['Rider']
+            else:
+                df['Athlete'] = ''
+
         # Parse date column and extract year and month
         df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
         df['Year'] = df['Date'].dt.year
@@ -26,7 +41,7 @@ def load_data():
 
 # Initialize the Dash app
 app = dash.Dash(__name__)
-app.title = "Moto Injury Data Viewer"
+app.title = "Action Sports Injury Data Viewer"
 
 # Load data
 df = load_data()
@@ -39,16 +54,41 @@ if not df.empty:
                    5: 'May', 6: 'June', 7: 'July', 8: 'August', 
                    9: 'September', 10: 'October', 11: 'November', 12: 'December'}
     injuries = sorted(df['Injury'].dropna().unique())
-    tracks = sorted(df['Track'].dropna().unique())
+    sports = sorted(df['Sport'].dropna().unique())
+    disciplines = sorted([d for d in df['Discipline'].dropna().unique() if str(d).strip()])
+    venues = sorted(df['Venue'].dropna().unique())
 else:
-    years = months = injuries = tracks = []
+    years = months = injuries = sports = disciplines = venues = []
 
 # Define the layout
 app.layout = html.Div([
     html.Div([
-        html.H1("Moto Injury Data Viewer", style={'textAlign': 'center', 'marginBottom': '30px'}),
+        html.H1("Action Sports Injury Data Viewer", style={'textAlign': 'center', 'marginBottom': '30px'}),
         
         html.Div([
+            html.Div([
+                html.Label("Sport:", style={'fontWeight': 'bold', 'marginBottom': '5px'}),
+                dcc.Dropdown(
+                    id='sport-filter',
+                    options=[{'label': 'All Sports', 'value': 'all'}] + [{'label': sport.title(), 'value': sport} for sport in sports],
+                    value='all',
+                    clearable=False,
+                    style={'width': '100%'}
+                ),
+            ], style={'width': '16%', 'display': 'inline-block', 'marginRight': '0.8%', 'verticalAlign': 'top'}),
+
+            html.Div([
+                html.Label("Discipline:", style={'fontWeight': 'bold', 'marginBottom': '5px'}),
+                dcc.Dropdown(
+                    id='discipline-filter',
+                    options=[{'label': 'All Disciplines', 'value': 'all'}] + [{'label': discipline, 'value': discipline} for discipline in disciplines],
+                    value='all',
+                    clearable=False,
+                    searchable=True,
+                    style={'width': '100%'}
+                ),
+            ], style={'width': '16%', 'display': 'inline-block', 'marginRight': '0.8%', 'verticalAlign': 'top'}),
+
             html.Div([
                 html.Label("Year:", style={'fontWeight': 'bold', 'marginBottom': '5px'}),
                 dcc.Dropdown(
@@ -58,7 +98,7 @@ app.layout = html.Div([
                     clearable=False,
                     style={'width': '100%'}
                 ),
-            ], style={'width': '24%', 'display': 'inline-block', 'marginRight': '1%', 'verticalAlign': 'top'}),
+            ], style={'width': '16%', 'display': 'inline-block', 'marginRight': '0.8%', 'verticalAlign': 'top'}),
             
             html.Div([
                 html.Label("Month:", style={'fontWeight': 'bold', 'marginBottom': '5px'}),
@@ -69,7 +109,7 @@ app.layout = html.Div([
                     clearable=False,
                     style={'width': '100%'}
                 ),
-            ], style={'width': '24%', 'display': 'inline-block', 'marginRight': '1%', 'verticalAlign': 'top'}),
+            ], style={'width': '16%', 'display': 'inline-block', 'marginRight': '0.8%', 'verticalAlign': 'top'}),
             
             html.Div([
                 html.Label("Injury Type:", style={'fontWeight': 'bold', 'marginBottom': '5px'}),
@@ -81,19 +121,19 @@ app.layout = html.Div([
                     searchable=True,
                     style={'width': '100%'}
                 ),
-            ], style={'width': '24%', 'display': 'inline-block', 'marginRight': '1%', 'verticalAlign': 'top'}),
+            ], style={'width': '16%', 'display': 'inline-block', 'marginRight': '0.8%', 'verticalAlign': 'top'}),
             
             html.Div([
-                html.Label("Location (Track):", style={'fontWeight': 'bold', 'marginBottom': '5px'}),
+                html.Label("Location (Venue):", style={'fontWeight': 'bold', 'marginBottom': '5px'}),
                 dcc.Dropdown(
-                    id='track-filter',
-                    options=[{'label': 'All Tracks', 'value': 'all'}] + [{'label': track, 'value': track} for track in tracks],
+                    id='venue-filter',
+                    options=[{'label': 'All Venues', 'value': 'all'}] + [{'label': venue, 'value': venue} for venue in venues],
                     value='all',
                     clearable=False,
                     searchable=True,
                     style={'width': '100%'}
                 ),
-            ], style={'width': '24%', 'display': 'inline-block', 'verticalAlign': 'top'}),
+            ], style={'width': '16%', 'display': 'inline-block', 'verticalAlign': 'top'}),
         ], style={'marginBottom': '20px', 'padding': '20px', 'backgroundColor': '#f0f0f0', 'borderRadius': '5px'}),
         
         html.Div(id='results-count', style={'marginBottom': '10px', 'fontSize': '16px', 'fontWeight': 'bold'}),
@@ -102,9 +142,11 @@ app.layout = html.Div([
             dash_table.DataTable(
                 id='injury-table',
                 columns=[
-                    {'name': 'Rider', 'id': 'Rider', 'type': 'text'},
+                    {'name': 'Sport', 'id': 'Sport', 'type': 'text'},
+                    {'name': 'Discipline', 'id': 'Discipline', 'type': 'text'},
+                    {'name': 'Athlete', 'id': 'Athlete', 'type': 'text'},
                     {'name': 'Injury', 'id': 'Injury', 'type': 'text'},
-                    {'name': 'Track', 'id': 'Track', 'type': 'text'},
+                    {'name': 'Venue', 'id': 'Venue', 'type': 'text'},
                     {'name': 'Date', 'id': 'Date', 'type': 'datetime', 'format': {'specifier': '%Y-%m-%d'}},
                 ],
                 data=[],
@@ -144,12 +186,14 @@ app.layout = html.Div([
 @app.callback(
     [Output('injury-table', 'data'),
      Output('results-count', 'children')],
-    [Input('year-filter', 'value'),
+    [Input('sport-filter', 'value'),
+     Input('discipline-filter', 'value'),
+     Input('year-filter', 'value'),
      Input('month-filter', 'value'),
      Input('injury-filter', 'value'),
-     Input('track-filter', 'value')]
+     Input('venue-filter', 'value')]
 )
-def update_table(year_filter, month_filter, injury_filter, track_filter):
+def update_table(sport_filter, discipline_filter, year_filter, month_filter, injury_filter, venue_filter):
     """Filter the data based on selected filters"""
     if df.empty:
         return [], "No data available. Please ensure updated_data.csv exists."
@@ -157,6 +201,12 @@ def update_table(year_filter, month_filter, injury_filter, track_filter):
     filtered_df = df.copy()
     
     # Apply filters
+    if sport_filter != 'all':
+        filtered_df = filtered_df[filtered_df['Sport'] == sport_filter]
+
+    if discipline_filter != 'all':
+        filtered_df = filtered_df[filtered_df['Discipline'] == discipline_filter]
+
     if year_filter != 'all':
         filtered_df = filtered_df[filtered_df['Year'] == year_filter]
     
@@ -166,14 +216,14 @@ def update_table(year_filter, month_filter, injury_filter, track_filter):
     if injury_filter != 'all':
         filtered_df = filtered_df[filtered_df['Injury'] == injury_filter]
     
-    if track_filter != 'all':
-        filtered_df = filtered_df[filtered_df['Track'] == track_filter]
+    if venue_filter != 'all':
+        filtered_df = filtered_df[filtered_df['Venue'] == venue_filter]
     
     # Format date for display
     filtered_df['Date'] = filtered_df['Date'].dt.strftime('%Y-%m-%d')
     
     # Select only the columns to display
-    display_df = filtered_df[['Rider', 'Injury', 'Track', 'Date']]
+    display_df = filtered_df[['Sport', 'Discipline', 'Athlete', 'Injury', 'Venue', 'Date']]
     
     # Convert to records for DataTable
     data = display_df.to_dict('records')
