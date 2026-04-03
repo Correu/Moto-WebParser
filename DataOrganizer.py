@@ -5,9 +5,37 @@
 
 import re
 import csv
+import glob
+import os
 from html.parser import HTMLParser
 from urllib.parse import urlparse
 from datetime import datetime
+
+
+def discover_injury_list_files(base_dir="."):
+    """
+    Find all per-source injury list text files for merging.
+    Order: injury_list_racerx.txt first (preferred when deduping), then other
+    injury_list_*.txt (sorted), then legacy injury_list.txt if present.
+    """
+    base_dir = os.path.abspath(base_dir)
+    patterned = sorted(glob.glob(os.path.join(base_dir, "injury_list_*.txt")))
+    legacy = os.path.join(base_dir, "injury_list.txt")
+    racerx = os.path.join(base_dir, "injury_list_racerx.txt")
+    ordered = []
+    seen = set()
+
+    if os.path.isfile(racerx):
+        ordered.append(racerx)
+        seen.add(os.path.normpath(racerx))
+    for f in patterned:
+        nf = os.path.normpath(f)
+        if nf not in seen:
+            ordered.append(f)
+            seen.add(nf)
+    if os.path.isfile(legacy) and os.path.normpath(legacy) not in seen:
+        ordered.append(legacy)
+    return ordered
 
 class InjuryHTMLParser(HTMLParser):
     """Custom HTML parser to extract rider information from injury entries"""
@@ -346,6 +374,13 @@ def parse_multiple_injury_lists(input_files, output_file="injury_data.csv"):
 
 if __name__ == "__main__":
     print("Starting data organization...")
-    parse_injury_list()
+    files = discover_injury_list_files()
+    if not files:
+        print("No injury_list_*.txt or injury_list.txt found; nothing to merge.")
+    else:
+        print(f"Merging {len(files)} file(s) -> injury_data.csv")
+        for f in files:
+            print(f"  - {f}")
+        parse_multiple_injury_lists(files, "injury_data.csv")
     print("Done!")
 

@@ -59,18 +59,27 @@ Running the scripts
 - All configured sources:
   - webReader.scrapeAllConfiguredSources()
 
-4) Build CSV files:
-- python3 DataOrganizer.py
-- python3 helpers/helpers.py
-- Optional merge from multiple source files:
-  - from DataOrganizer import parse_multiple_injury_lists
-  - parse_multiple_injury_lists([
-      "injury_list_racerx.txt",
-      "injury_list_offroadxtreme.txt",
-      "injury_list_swapmoto.txt",
-      "injury_list_vitalbmx.txt"
-    ], output_file="injury_data.csv")
+4) Build CSV files (recommended one step):
+- python3 build_updated_data.py
+  This will:
+  - Discover all injury_list_*.txt plus injury_list.txt (if present), merge -> injury_data.csv
+  - Cleanse and dedupe (normalized keys, standardized Sport/Athlete/Injury/Venue/Date) -> updated_data.csv
+
+  Cleansing rules (see helpers/helpers.py):
+  - Sport: mapped to canonical codes (motocross, off_road, bmx, skate, fmx, etc.)
+  - Athlete/Rider and Venue/Track: stripped, whitespace collapsed, title case for display
+  - Injury: whitespace collapsed; short ALL CAPS phrases title-cased with common acronyms kept (ACL, MCL, …)
+  - Date: normalized to YYYY-MM-DD when parseable
+  - Duplicates removed using case-insensitive keys on sport + athlete + injury + venue
+  - When duplicates exist, the earliest valid Date is kept
+
+  Manual / split steps:
+- python3 DataOrganizer.py   (merge discovered lists -> injury_data.csv only)
+- python3 -c "from helpers.helpers import parse_injury_data_first_occurrence; parse_injury_data_first_occurrence()"
 
 5) Start the Dash app:
 - python3 main.py
+
+Date caveat:
+- Rows with no parseable Date are still written to updated_data.csv but the Dash app drops them when loading (invalid/missing dates). Off-road/blog URLs without /YYYY/MM/DD/ may need a future parser improvement (article meta/time tags).
 
