@@ -17,7 +17,7 @@
 ```bash
 cd Moto-WebParser
 python3 -m venv .venv
-source .venv/bin/activate
+source .venv/bin/activate (.venv\scripts\activate for windows)
 pip install -r requirements.txt
 ```
 
