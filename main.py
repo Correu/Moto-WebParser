@@ -4,6 +4,8 @@
 '''
 import pandas as pd
 import dash
+import plotly.express as px
+import plotly.graph_objects as go
 from dash import dcc, html, dash_table, Input, Output
 
 _DISCIPLINE_BY_SPORT = {
@@ -17,6 +19,111 @@ _DISCIPLINE_BY_SPORT = {
 
 def _sport_label(code):
     return (code or '').replace('_', ' ').strip().title() or 'Unknown'
+
+
+_MAX_PIE_SLICES = 12
+
+
+def _empty_pie_figure(message):
+    fig = go.Figure()
+    fig.update_layout(
+        title=message,
+        annotations=[{
+            'text': message,
+            'showarrow': False,
+            'x': 0.5,
+            'y': 0.5,
+            'xref': 'paper',
+            'yref': 'paper',
+            'font': {'size': 14},
+        }],
+    )
+    return fig
+
+
+def _cap_pie_series(counts):
+    """Keep pie readable by showing top slices and grouping the rest as Other."""
+    if len(counts) <= _MAX_PIE_SLICES:
+        return counts
+    top = counts.head(_MAX_PIE_SLICES - 1)
+    other_total = counts.iloc[_MAX_PIE_SLICES - 1:].sum()
+    return pd.concat([top, pd.Series({'Other': other_total})])
+
+
+def _build_injury_pie_chart(filtered_df, group_by):
+    """Aggregate injury counts with pandas and render as a pie chart."""
+    if filtered_df.empty:
+        return _empty_pie_figure('No injuries match the current filters')
+
+    if group_by == 'venue':
+        labels = (
+            filtered_df['Venue']
+            .fillna('')
+            .astype(str)
+            .str.strip()
+            .replace('', 'Unknown venue')
+        )
+        title = 'Injury volume by track / venue'
+        hover = 'Venue'
+    else:
+        labels = filtered_df['Year'].apply(
+            lambda y: 'No date' if pd.isna(y) else str(int(y))
+        )
+        title = 'Injury volume by racing year'
+        hover = 'Year'
+
+    counts = labels.value_counts().sort_values(ascending=False)
+    counts = _cap_pie_series(counts)
+    if len(counts) > 1 and 'Other' in counts.index:
+        title = f'{title} (top {_MAX_PIE_SLICES - 1} + Other)'
+
+    chart_df = counts.reset_index()
+    chart_df.columns = [hover, 'Injuries']
+
+    fig = px.pie(
+        chart_df,
+        names=hover,
+        values='Injuries',
+        title=title,
+        hole=0.35,
+    )
+    fig.update_traces(textposition='inside', textinfo='percent+label')
+    fig.update_layout(
+        margin={'t': 50, 'b': 20, 'l': 20, 'r': 20},
+        legend={'orientation': 'v', 'yanchor': 'middle', 'y': 0.5, 'x': 1.02},
+        uniformtext={'mode': 'hide', 'minsize': 10},
+    )
+    return fig
+
+
+def _apply_filters(sport_filter, discipline_filter, year_filter, month_filter, injury_filter, venue_filter):
+    """Return a copy of the dataset constrained by the dashboard filters."""
+    if df.empty:
+        return df.copy()
+
+    filtered_df = df.copy()
+
+    if sport_filter != 'all':
+        filtered_df = filtered_df[filtered_df['Sport'] == sport_filter]
+
+    if discipline_filter != 'all':
+        filtered_df = filtered_df[filtered_df['Discipline'] == discipline_filter]
+
+    if year_filter == 'nodate':
+        filtered_df = filtered_df[filtered_df['Date'].isna()]
+    elif year_filter != 'all':
+        filtered_df = filtered_df[filtered_df['Year'] == year_filter]
+
+    if month_filter != 'all':
+        filtered_df = filtered_df[filtered_df['Month'] == month_filter]
+
+    if injury_filter != 'all':
+        filtered_df = filtered_df[filtered_df['Injury'] == injury_filter]
+
+    if venue_filter != 'all':
+        filtered_df = filtered_df[filtered_df['Venue'] == venue_filter]
+
+    return filtered_df
 
 
 # Load the injury data
@@ -161,6 +268,29 @@ app.layout = html.Div([
         html.Div(id='results-count', style={'marginBottom': '10px', 'fontSize': '16px', 'fontWeight': 'bold'}),
 
         html.Div([
+            html.Div([
+                html.Label("Chart breakdown:", style={'fontWeight': 'bold', 'marginBottom': '5px'}),
+                dcc.RadioItems(
+                    id='chart-group-by',
+                    options=[
+                        {'label': ' By track / venue', 'value': 'venue'},
+                        {'label': ' By racing year', 'value': 'year'},
+                    ],
+                    value='venue',
+                    inline=True,
+                    style={'marginBottom': '10px'},
+                ),
+            ]),
+            dcc.Graph(id='injury-pie-chart', config={'displayModeBar': False}),
+        ], style={
+            'marginBottom': '24px',
+            'padding': '20px',
+            'backgroundColor': '#fafafa',
+            'borderRadius': '5px',
+            'border': '1px solid #e0e0e0',
+        }),
+
+        html.Div([
             dash_table.DataTable(
                 id='injury-table',
                 columns=[
@@ -221,54 +351,39 @@ def cascade_discipline_options(sport_filter):
     return base + [{'label': d, 'value': d} for d in discs], 'all'
 
 
-# Define the callback to update the table
+# Define the callback to update the table and pie chart
 @app.callback(
     [Output('injury-table', 'data'),
-     Output('results-count', 'children')],
+     Output('results-count', 'children'),
+     Output('injury-pie-chart', 'figure')],
     [Input('sport-filter', 'value'),
      Input('discipline-filter', 'value'),
      Input('year-filter', 'value'),
      Input('month-filter', 'value'),
      Input('injury-filter', 'value'),
-     Input('venue-filter', 'value')]
+     Input('venue-filter', 'value'),
+     Input('chart-group-by', 'value')]
 )
-def update_table(sport_filter, discipline_filter, year_filter, month_filter, injury_filter, venue_filter):
-    """Filter the data based on selected filters"""
+def update_dashboard(sport_filter, discipline_filter, year_filter, month_filter, injury_filter, venue_filter, chart_group_by):
+    """Filter the data and refresh the table and injury volume pie chart."""
     if df.empty:
-        return [], "No data available. Please ensure updated_data.csv exists."
+        return [], "No data available. Please ensure updated_data.csv exists.", _empty_pie_figure('No data available')
 
-    filtered_df = df.copy()
-
-    if sport_filter != 'all':
-        filtered_df = filtered_df[filtered_df['Sport'] == sport_filter]
-
-    if discipline_filter != 'all':
-        filtered_df = filtered_df[filtered_df['Discipline'] == discipline_filter]
-
-    if year_filter == 'nodate':
-        filtered_df = filtered_df[filtered_df['Date'].isna()]
-    elif year_filter != 'all':
-        filtered_df = filtered_df[filtered_df['Year'] == year_filter]
-
-    if month_filter != 'all':
-        filtered_df = filtered_df[filtered_df['Month'] == month_filter]
-
-    if injury_filter != 'all':
-        filtered_df = filtered_df[filtered_df['Injury'] == injury_filter]
-
-    if venue_filter != 'all':
-        filtered_df = filtered_df[filtered_df['Venue'] == venue_filter]
-
-    filtered_df = filtered_df.copy()
-    filtered_df['Date'] = filtered_df['Date'].apply(
-        lambda x: x.strftime('%Y-%m-%d') if pd.notna(x) else ''
+    filtered_df = _apply_filters(
+        sport_filter, discipline_filter, year_filter, month_filter, injury_filter, venue_filter,
     )
 
-    display_df = filtered_df[['Sport', 'Discipline', 'Athlete', 'Injury', 'Venue', 'Date']]
+    pie_figure = _build_injury_pie_chart(filtered_df, chart_group_by or 'venue')
+
+    display_df = filtered_df.copy()
+    display_df['Date'] = display_df['Date'].apply(
+        lambda x: x.strftime('%Y-%m-%d') if pd.notna(x) else ''
+    )
+    display_df = display_df[['Sport', 'Discipline', 'Athlete', 'Injury', 'Venue', 'Date']]
     data = display_df.to_dict('records')
     results_text = f"Showing {len(data)} result(s)"
 
-    return data, results_text
+    return data, results_text, pie_figure
 
 if __name__ == '__main__':
     if df.empty:
