@@ -2,31 +2,63 @@
 
 **Action-sports injury and crash data** — scrape multiple sources, merge and clean into one dataset, and explore it in a **Plotly Dash** web app.
 
+## Preview
+
+<div align="center">
+  <img src="assets/dashboard-preview.png" alt="Action Sports Injury Data Viewer dashboard" width="900" />
+</div>
+
+<p align="center"><em>Filter injuries by sport, year, venue, and more; toggle the pie chart by track or racing year.</em></p>
+
 ---
 
 ## What this project does
 
 - Collects links and article-style injury/crash information from configured sites (motocross injury reports, off-road news, BMX search results, etc.).
 - Writes per-source text dumps (`injury_list_<source>.txt`), then **merges**, **standardizes**, and **deduplicates** into `updated_data.csv`.
-- Serves an interactive **filterable table** (sport, discipline, year, month, injury, venue) in the browser.
+- Serves an interactive **filterable table** and **injury volume pie chart** (by track/venue or racing year) in the browser.
 
 ---
 
 ## Quick start
 
+**Windows (PowerShell)**
+
+```powershell
+cd Moto-WebParser
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
+
+If activation is blocked by execution policy, run once: `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned`
+
+**Windows (Command Prompt)**
+
+```cmd
+cd Moto-WebParser
+python -m venv .venv
+.venv\Scripts\activate.bat
+pip install -r requirements.txt
+```
+
+**macOS / Linux**
+
 ```bash
 cd Moto-WebParser
 python3 -m venv .venv
-source .venv/bin/activate (.venv\scripts\activate for windows)
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
 **If you already have scraped `injury_list_*.txt` files**, build the app dataset and launch:
 
-```bash
-python3 build_updated_data.py
-python3 main.py
+```powershell
+python build_updated_data.py
+python main.py
 ```
+
+On macOS/Linux use `python3` instead of `python` if needed.
 
 Open **http://127.0.0.1:8050** in your browser.
 
