@@ -3,6 +3,8 @@ import csv
 import re
 from datetime import datetime
 
+from paths import data_path
+
 # Canonical sport codes used across scrapers / UI
 _CANONICAL_SPORTS = frozenset({"motocross", "off_road", "bmx", "skate", "fmx"})
 
@@ -154,7 +156,7 @@ def generate_requirements_txt_with_pkg_resources(output_file="requirements.txt")
         print(f"Error writing to file: {e}")
 
 
-def parse_injury_data_first_occurrence(input_file="injury_data.csv", output_file="updated_data.csv"):
+def parse_injury_data_first_occurrence(input_file=None, output_file=None):
     """
     Cleanse, standardize, and dedupe injury rows, then write updated_data.csv.
 
@@ -165,9 +167,14 @@ def parse_injury_data_first_occurrence(input_file="injury_data.csv", output_file
     Rows with empty Date sort last and can still be kept if the key is new.
 
     Args:
-        input_file (str): Path to the input CSV file (default: "injury_data.csv")
-        output_file (str): Path to the output CSV file (default: "updated_data.csv")
+        input_file (str): Path to the input CSV file (default: data/injury_data.csv)
+        output_file (str): Path to the output CSV file (default: data/updated_data.csv)
     """
+    if input_file is None:
+        input_file = data_path("injury_data.csv")
+    if output_file is None:
+        output_file = data_path("updated_data.csv")
+
     fieldnames = ['Sport', 'Discipline', 'Athlete', 'Rider', 'Injury', 'Venue', 'Track', 'Date']
 
     try:

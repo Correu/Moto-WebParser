@@ -11,13 +11,17 @@ from html.parser import HTMLParser
 from urllib.parse import urlparse
 from datetime import datetime
 
+from paths import DATA_DIR, data_path
 
-def discover_injury_list_files(base_dir="."):
+
+def discover_injury_list_files(base_dir=None):
     """
     Find all per-source injury list text files for merging.
     Order: injury_list_racerx.txt first (preferred when deduping), then other
     injury_list_*.txt (sorted), then legacy injury_list.txt if present.
     """
+    if base_dir is None:
+        base_dir = DATA_DIR
     base_dir = os.path.abspath(base_dir)
     patterned = sorted(glob.glob(os.path.join(base_dir, "injury_list_*.txt")))
     legacy = os.path.join(base_dir, "injury_list.txt")
@@ -182,10 +186,15 @@ def extract_date_from_url(url):
     return ""
 
 
-def parse_injury_list(input_file="injury_list.txt", output_file="injury_data.csv"):
+def parse_injury_list(input_file=None, output_file=None):
     """
     Parse injury_list.txt and convert to CSV format
     """
+    if input_file is None:
+        input_file = data_path("injury_list.txt")
+    if output_file is None:
+        output_file = data_path("injury_data.csv")
+
     parser = InjuryHTMLParser()
     injury_records = []
     current_sport = "motocross"
@@ -293,8 +302,11 @@ def parse_injury_list(input_file="injury_list.txt", output_file="injury_data.csv
         print("No injury records found to convert.")
 
 
-def parse_multiple_injury_lists(input_files, output_file="injury_data.csv"):
+def parse_multiple_injury_lists(input_files, output_file=None):
     """Parse and merge multiple injury list text files into one CSV."""
+    if output_file is None:
+        output_file = data_path("injury_data.csv")
+
     parser = InjuryHTMLParser()
     injury_records = []
 
@@ -376,11 +388,12 @@ if __name__ == "__main__":
     print("Starting data organization...")
     files = discover_injury_list_files()
     if not files:
-        print("No injury_list_*.txt or injury_list.txt found; nothing to merge.")
+        print(f"No injury_list_*.txt or injury_list.txt found under {DATA_DIR}; nothing to merge.")
     else:
-        print(f"Merging {len(files)} file(s) -> injury_data.csv")
+        injury_csv = data_path("injury_data.csv")
+        print(f"Merging {len(files)} file(s) -> {injury_csv}")
         for f in files:
             print(f"  - {f}")
-        parse_multiple_injury_lists(files, "injury_data.csv")
+        parse_multiple_injury_lists(files, injury_csv)
     print("Done!")
 

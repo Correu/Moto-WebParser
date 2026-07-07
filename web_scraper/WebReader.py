@@ -11,10 +11,18 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from urllib.parse import urljoin
+import os
 import time
 import re
 
 class webReader:
+    @staticmethod
+    def _data_path(filename):
+        root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        data_dir = os.path.join(root, "data")
+        os.makedirs(data_dir, exist_ok=True)
+        return os.path.join(data_dir, filename)
+
     SOURCE_CONFIGS = {
         "racerx": {
             "sport": "motocross",
@@ -282,7 +290,7 @@ class webReader:
             print(f"Total pages processed: {page_num}")
             print(f"Total unique links found: {len(links_List)}")
             
-            listFile = source_cfg["link_file"]
+            listFile = webReader._data_path(source_cfg["link_file"])
             with open(listFile, "w") as file_object:
                 for i in range(len(links_List)):
                     file_object.write(links_List[i] + "\n")
@@ -293,14 +301,21 @@ class webReader:
             driver.quit()
     
     # Method to scrape injury data from each URL in link_list.txt
-    def scrapeInjuryData(linkFile=None, outputFile="injury_list.txt", source_id="racerx"):
+    def scrapeInjuryData(linkFile=None, outputFile=None, source_id="racerx"):
         """
-        Reads URLs from link_list.txt, visits each page, and extracts rider injury information.
-        Saves the extracted data to injury_list.txt.
+        Reads URLs from a per-source link list, visits each page, and extracts injury information.
+        Saves the extracted data to a per-source injury list under data/.
         """
         source_cfg = webReader.get_source_config(source_id)
         if not linkFile:
-            linkFile = source_cfg["link_file"]
+            linkFile = webReader._data_path(source_cfg["link_file"])
+        elif not os.path.isabs(linkFile):
+            linkFile = webReader._data_path(linkFile)
+
+        if outputFile is None:
+            outputFile = webReader._data_path(f"injury_list_{source_id}.txt")
+        elif not os.path.isabs(outputFile):
+            outputFile = webReader._data_path(outputFile)
 
         # Set Chrome options
         options = Options()
@@ -525,5 +540,5 @@ class webReader:
         for source_id in webReader.SOURCE_CONFIGS:
             print(f"\n=== Processing source: {source_id} ===")
             webReader.mainPageReader(source_id=source_id)
-            output_file = f"injury_list_{source_id}.txt"
+            output_file = webReader._data_path(f"injury_list_{source_id}.txt")
             webReader.scrapeInjuryData(source_id=source_id, outputFile=output_file)

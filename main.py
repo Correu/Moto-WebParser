@@ -8,6 +8,8 @@ import plotly.express as px
 import plotly.graph_objects as go
 from dash import dcc, html, dash_table, Input, Output
 
+from paths import data_path
+
 _DISCIPLINE_BY_SPORT = {
     'motocross': 'Supercross / Motocross',
     'off_road': 'Trophy truck / Desert',
@@ -130,7 +132,7 @@ def _apply_filters(sport_filter, discipline_filter, year_filter, month_filter, i
 def load_data():
     """Load and preprocess the injury data from CSV"""
     try:
-        df = pd.read_csv('updated_data.csv')
+        df = pd.read_csv(data_path('updated_data.csv'))
         # Backward-compatible defaults for older motocross-only files
         if 'Sport' not in df.columns:
             df['Sport'] = 'motocross'
@@ -159,7 +161,7 @@ def load_data():
         df['MonthName'] = df['Date'].dt.strftime('%B')
         return df
     except FileNotFoundError:
-        print("Error: updated_data.csv not found. Please run the data processing function first.")
+        print(f"Error: {data_path('updated_data.csv')} not found. Please run the data processing function first.")
         return pd.DataFrame()
 
 # Initialize the Dash app
@@ -367,7 +369,7 @@ def cascade_discipline_options(sport_filter):
 def update_dashboard(sport_filter, discipline_filter, year_filter, month_filter, injury_filter, venue_filter, chart_group_by):
     """Filter the data and refresh the table and injury volume pie chart."""
     if df.empty:
-        return [], "No data available. Please ensure updated_data.csv exists.", _empty_pie_figure('No data available')
+        return [], f"No data available. Please ensure {data_path('updated_data.csv')} exists.", _empty_pie_figure('No data available')
 
     filtered_df = _apply_filters(
         sport_filter, discipline_filter, year_filter, month_filter, injury_filter, venue_filter,
@@ -387,7 +389,7 @@ def update_dashboard(sport_filter, discipline_filter, year_filter, month_filter,
 
 if __name__ == '__main__':
     if df.empty:
-        print("Warning: No data loaded. Please ensure updated_data.csv exists.")
+        print(f"Warning: No data loaded. Please ensure {data_path('updated_data.csv')} exists.")
     else:
         print(f"Loaded {len(df)} injury records")
         print("Starting Dash server...")

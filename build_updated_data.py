@@ -15,20 +15,24 @@ def main():
 
     from DataOrganizer import discover_injury_list_files, parse_multiple_injury_lists
     from helpers.helpers import parse_injury_data_first_occurrence
+    from paths import DATA_DIR, data_path
 
-    files = discover_injury_list_files(ROOT)
+    files = discover_injury_list_files(DATA_DIR)
     if not files:
-        print("No injury_list_*.txt or injury_list.txt found under", ROOT)
+        print("No injury_list_*.txt or injury_list.txt found under", DATA_DIR)
         return 1
 
-    print(f"Merging {len(files)} file(s) -> injury_data.csv")
+    injury_csv = data_path("injury_data.csv")
+    updated_csv = data_path("updated_data.csv")
+
+    print(f"Merging {len(files)} file(s) -> {injury_csv}")
     for f in files:
         print(f"  - {os.path.basename(f)}")
-    parse_multiple_injury_lists(files, "injury_data.csv")
+    parse_multiple_injury_lists(files, injury_csv)
 
-    print("Cleansing and deduplicating -> updated_data.csv")
-    parse_injury_data_first_occurrence("injury_data.csv", "updated_data.csv")
-    print("Done. Start the app with: python3 main.py")
+    print(f"Cleansing and deduplicating -> {updated_csv}")
+    parse_injury_data_first_occurrence(injury_csv, updated_csv)
+    print("Done. Start the app with: python main.py")
     return 0
 
 
